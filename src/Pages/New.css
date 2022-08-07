@@ -1,0 +1,11 @@
+.news-container {
+    display: flex;
+}
+
+.newscard-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* background-color: lightcoral; */
+    overflow-y: scroll;
+}

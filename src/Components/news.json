@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 533,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andrew Couts",
+            "title": "The US Emergency Alert System Has Dangerous Flaws",
+            "description": "Plus: A crypto-heist extravaganza, a peek at an NSO spyware dashboard, and more.",
+            "url": "https://www.wired.com/story/fema-emergency-alert-flaws-security-roundup/",
+            "urlToImage": "https://media.wired.com/photos/62edb7e154d910713ee4f20c/191:100/w_1280,c_limit/US-Emergency-Alert-System-Security-GettyImages-1166460347.jpg",
+            "publishedAt": "2022-08-06T13:00:00Z",
+            "content": "Cryptocurrency tracing has become a key tool for police investigating everything from fraud and ransomware to child abuse. But its accuracy may soon be put to the test.\r\nThis week, we reported on new… [+5333 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Block shares slip after crypto winter dampens quarterly results - Reuters",
+            "description": "Shares of Jack Dorsey-led Block Inc <a href=\"https://www.reuters.com/companies/SQ.N\" target=\"_blank\">(SQ.N)</a>, a digital payments firm that has bet big on bitcoin, declined nearly 7% in premarket trading on Friday after the company reported a loss in quarte…",
+            "url": "https://www.reuters.com/technology/block-shares-slip-after-crypto-winter-dampens-quarterly-results-2022-08-05/",
+            "urlToImage": "https://www.reuters.com/resizer/SMSA0eNWtPIR-Mx2xNcRc0QEqpI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PA7ZOH5NSRPU7IQAMPPAGLSBFA.jpg",
+            "publishedAt": "2022-08-05T11:14:00Z",
+            "content": "Aug 5 (Reuters) - Shares of Jack Dorsey-led Block Inc (SQ.N), a digital payments firm that has bet big on bitcoin, declined nearly 7% in premarket trading on Friday after the company reported a loss … [+1944 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Thai c.bank to test retail digital currency late this year - Reuters",
+            "description": "Thailand's central bank said on Friday it expected to test its retail digital currency from late this year to the middle of 2023, as an alternative payment option.",
+            "url": "https://www.reuters.com/markets/currencies/thai-cbank-test-retail-digital-currency-late-this-year-2022-08-05/",
+            "urlToImage": "https://www.reuters.com/resizer/-NEiUWXMJ-fm3aORlo9G986-kUQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MCHWHJZPJRMILGJ4B5SOEE3D3I.jpg",
+            "publishedAt": "2022-08-05T05:40:00Z",
+            "content": "BANGKOK, Aug 5(Reuters) - Thailand's central bank said on Friday it expected to test its retail digital currency from late this year to the middle of 2023, as an alternative payment option.\r\nDuring t… [+1078 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Dan Milmo Global technology editor",
+            "title": "Another court case fails to unlock the mystery of bitcoin’s Satoshi Nakamoto",
+            "description": "As Craig Wright’s legal tussles pile up, the world is no closer to knowing who the currency’s inventor really isWho is Satoshi Nakamoto? The mysterious inventor of bitcoin is a renowned figure in the world of cryptocurrency but his true identity is unknown.Ho…",
+            "url": "https://amp.theguardian.com/technology/2022/aug/06/another-court-case-fails-to-unlock-the-mystery-of-bitcoins-satoshi-nakamoto",
+            "urlToImage": "https://i.guim.co.uk/img/media/5e754634d68931ac0ba3ae191be4dba3a14c20b9/0_371_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e2bcabf223f0e7bb598dd3d9d37b22a",
+            "publishedAt": "2022-08-06T09:00:11Z",
+            "content": "Who is Satoshi Nakamoto? The mysterious inventor of bitcoin is a renowned figure in the world of cryptocurrency but his true identity is unknown.\r\nHowever, the British blogger Peter McCormack was cer… [+5606 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Katie Canales)",
+            "title": "The crypto winter has come for Jack Dorsey's company, Block",
+            "description": "The ex-Twitter CEO's digital payments firm reported a fall in revenue due to bitcoin's slumped price and \"broader uncertainty\" in the crypto world.",
+            "url": "https://www.businessinsider.com/crypto-winter-impacts-jack-dorsey-block-earnings-cash-app-2022-8",
+            "urlToImage": "https://i.insider.com/600f0ea0cf23090019e97248?width=1200&format=jpeg",
+            "publishedAt": "2022-08-05T15:40:12Z",
+            "content": "No one's safe from the beating that the crypto market is taking, including noted bitcoin maximalist Jack Dorsey.\r\nThe founder and ex-CEO of Twitter turned more of his attention to his digital payment… [+1912 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Carla Mozée)",
+            "title": "Block slides as drop in bitcoin revenue dents 2nd-quarter earnings for the Cash App parent",
+            "description": "Bitcoin's price dropped by nearly 60% during the second quarter but has recovered slightly to trade above $23,000.",
+            "url": "https://markets.businessinsider.com/news/stocks/block-stock-price-bitcoin-crypto-revenue-charge-cashapp-market-btc-dorsey-2022-8",
+            "urlToImage": "https://i.insider.com/62491315e22adb0018d1c24c?width=1200&format=jpeg",
+            "publishedAt": "2022-08-05T14:13:09Z",
+            "content": "Block shares fell Friday after the payments processing company took a second-quarter impairment charge related to bitcoin's crash during the so-called crypto winter for digital assets. \r\nShares fell … [+1689 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "US stocks fall after strong July employment report puts pressure on Fed to keep the pace of rate hikes",
+            "description": "The US economy added 528,000 new jobs in July, more than double the consensus economist estimate of 250,000.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-july-jobs-reports-528k-gain-fed-2022-8",
+            "urlToImage": "https://i.insider.com/62437235764fa90018baeec3?width=1200&format=jpeg",
+            "publishedAt": "2022-08-05T13:38:56Z",
+            "content": "US stocks fell on Friday as investors digested the implications of a stronger-than-expected July employment report.\r\nThe US economy added 528,000 new jobs in July, which was more than double the cons… [+1943 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "aweinman@businessinsider.com (Aaron Weinman)",
+            "title": "'Robinhoodies' knew about pending layoffs weeks before the company decided to cull more staff",
+            "description": "Axed 'Robinhoodies' saw the writing on the wall before the layoffs came, Ken Griffin's Citadel is trouncing rivals, and get to know 16 lawyers benefiting from bankruptcy battles.",
+            "url": "https://www.businessinsider.com/robinhood-layoffs-tech-hiring-vlad-tenev-careers-2022-8",
+            "urlToImage": "https://i.insider.com/6030089bbed5c50011a2b9db?width=1200&format=jpeg",
+            "publishedAt": "2022-08-05T11:55:31Z",
+            "content": "Hi. Aaron Weinman here. Robinhood cut about 23% of its staff earlier this week, following a first round of cuts in April. The pandemic darling has come back down to Earth, and today we learn that som… [+4463 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Anushka Dutta",
+            "title": "3 Risky Crypto Stocks Investors Should Avoid",
+            "description": "Bitcoin, the largest cryptocurrency, has been trading in a tight range due to the volatile economic backdrop. Moreover, with a disappointing global growth forecast, the crypto market might be bracing...",
+            "url": "https://www.entrepreneur.com/article/432840",
+            "urlToImage": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-432840.jpeg",
+            "publishedAt": "2022-08-05T14:29:38Z",
+            "content": "Bitcoin, the largest cryptocurrency, has been trading in a tight range due to the volatile economic backdrop. Moreover, with a disappointing global growth forecast, the crypto market might be bracing… [+5110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Joshua H. Davidson",
+            "title": "If You Have No Clue What Web3 Is, You're Not Alone. Here's a Breakdown of the Future of the Internet.",
+            "description": "Hype or not, Web3 is on the horizon, and it's critical for entrepreneurs and small business owners to know what to be on the lookout for.",
+            "url": "https://www.entrepreneur.com/article/431223",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1659476740-GettyImages-1368757787.jpg",
+            "publishedAt": "2022-08-05T16:00:00Z",
+            "content": "You almost can't escape the buzz surrounding NFTs, cryptocurrency and Web3. Some say these technologies will come to revolutionize every aspect of society. Others say this is a pipe dream.\r\nAs the ma… [+7073 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Piers Ridyard, Radix",
+            "title": "Starting your development journey into the world of Web3",
+            "description": "Web3 is the future and companies want developers versed in it. The right resources and foundational knowledge are key to success.",
+            "url": "https://venturebeat.com/2022/08/06/starting-your-development-journey-into-the-world-of-web3/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov.jpg?w=1200&strip=all",
+            "publishedAt": "2022-08-06T20:10:00Z",
+            "content": "Were you unable to attend Transform 2022? Check out all of the summit sessions in our on-demand library now! Watch here. \r\nWhats the hottest job on the market? Software engineers, programmers, and de… [+7126 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Jenny List",
+            "title": "Buzzword Bingo Bitcoin Burial Burrowing Blueprint Balked at By Bureaucracy",
+            "description": "Many of you will at some time have heard the unfortunate tale of [James Howells], a Welsh IT worker who threw away a hard drive containing 8,000 Bitcoin back in 2013. Over the years he’s hatc…",
+            "url": "https://hackaday.com/2022/08/04/buzzword-bingo-bitcoin-burial-burrowing-blueprint-balked-at-by-bureaucracy/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2022/08/btc-landfill-featured.jpg",
+            "publishedAt": "2022-08-05T05:00:55Z",
+            "content": "Many of you will at some time have heard the unfortunate tale of [James Howells], a Welsh IT worker who threw away a hard drive containing 8,000 Bitcoin back in 2013. Over the years he’s hatched vari… [+1380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Markus Will",
+            "title": "WTF: Strom ist das neue Bitcoin: Stromverkauf brachte Miner mehr Geld als Schürfen",
+            "description": "Ein Bitcoin-Mining-Unternehmen bekam im Juli 9,5 Millionen US-Dollar, weil es hitzebedingt eine Anlage abschaltete. Es verdiente damit mehr als durchs Schürfen.",
+            "url": "https://www.heise.de/news/Strom-ist-das-neue-Bitcoin-Stromverkauf-brachte-Miner-mehr-Geld-als-Schuerfen-7205052.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/8/7/7/2/5/shutterstock_1995173864-8484c125c436ece4.jpg",
+            "publishedAt": "2022-08-06T12:30:00Z",
+            "content": "Die Bitcoin-Krise treibt in Verbindung mit galoppierenden Energiepreisen seltsame Blüten: Das Mining-Unternehmen Riot Blockchain vermeldete stolz, dass es im Juli durch Stromgutschriften mehr Geld ve… [+1985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Genbeta.com"
+            },
+            "author": "Bárbara Bécares",
+            "title": "Coinbase da una alegría al mundo cripto con una importante alianza con BlackRock para remontar su 'Annus horribilis'",
+            "description": "Ayer nos hacíamos eco de un ataque a Solana que no acababa de encontrar solución estaba lastrando una de las mayores criptomonedas del mundo; constantemente conocemos de caídas del valor de bitcoin; en junio Binance y Celsius tuvieron graves problemas y esto …",
+            "url": "https://www.genbeta.com/actualidad/coinbase-da-alegria-al-mundo-cripto-importante-alianza-blackrock-para-remontar-su-annus-horribilis",
+            "urlToImage": "https://i.blogs.es/d41356/kanchanara-9pcv2mb65y8-unsplash/840_560.jpg",
+            "publishedAt": "2022-08-05T06:19:33Z",
+            "content": "Ayer nos hacíamos eco de un ataque a Solana que no acababa de encontrar solución estaba lastrando una de las mayores criptomonedas del mundo; constantemente conocemos de caídas del valor de bitcoin; … [+1974 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Katie Rees",
+            "title": "What Is Telegram's Toncoin? Is It Safe?",
+            "description": "Would you trust a cryptocurrency developed by an instant messaging app?",
+            "url": "https://www.makeuseof.com/what-is-telegram-toncoin-is-it-safe/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/telegram-icon-toncoin.jpg",
+            "publishedAt": "2022-08-05T12:16:14Z",
+            "content": "Nowadays, it seems like everyone wants in on the crypto game, be it entrepreneurs, developers, or well-established companies, such as Telegram. Telegram's Toncoin crypto has been around for some time… [+6969 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Hadrien Augusto",
+            "title": "Revolut ajoute 20 nouvelles cryptomonnaies, voici la liste",
+            "description": "Plusieurs jetons font l’honneur du métavers.",
+            "url": "https://www.presse-citron.net/revolut-ajoute-20-nouvelles-cryptomonnaies-voici-la-liste/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2020/08/revolut-monnaie.jpg",
+            "publishedAt": "2022-08-06T14:00:51Z",
+            "content": "Revolut vient dajouter 22 nouveaux tokens sur son application mobile, un nouvel élargissement du catalogue des cryptomonnaies sur lapplication de la néobanque londonienne qui porte aujourdhui le tota… [+3008 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Tobias Költzsch",
+            "title": "Krypto-Mining: Bitcoin-Miner in Texas macht mehr Geld durch Abschaltung",
+            "description": "Eine Hitzewelle in Texas zwingt Bitcoin-Miner zur Abschaltung ihrer Anlagen - Riot Blockchain hat durch Stromgutschriften mehr verdient als mit Mining. (Kryptomining, Bitcoin)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fkrypto-mining-bitcoin-miner-in-texas-macht-mehr-geld-durch-abschaltung-2208-167415.html&referer=https%3A%2F%2Ft.co%2F9a3d614e89",
+            "urlToImage": null,
+            "publishedAt": "2022-08-05T12:32:01Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking, indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informatio… [+575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Small Business Trends"
+            },
+            "author": "Samson Haileyesus",
+            "title": "What is Cardano?",
+            "description": "Cardano (ADA) is considered a third-generation blockchain, following in the footsteps of Bitcoin and Ethereum.",
+            "url": "https://smallbiztrends.com/2022/08/what-is-cardano.html",
+            "urlToImage": "https://media.smallbiztrends.com/2022/08/what-is-cardano-2.png",
+            "publishedAt": "2022-08-05T16:00:13Z",
+            "content": "Cardano (ADA) is considered a third-generation blockchain, following in the footsteps of Bitcoin and Ethereum. Cardano aims to compete directly with Ethereum, a decentralized application (DApp) devel… [+4495 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Faz.net"
+            },
+            "author": "Martin Hock",
+            "title": "Die Blockchain bietet mehr als Kryptowährungen",
+            "description": "Die Blockchain-Technik scheint untrennbar verbunden mit Bitcoin und anderen Kryptowährungen. Doch BNY Mellon setzt vor allem auf ganz andere Anwendungsbereiche.",
+            "url": "https://www.faz.net/aktuell/finanzen/blockchain-fonds-wer-braucht-schon-10-000-kryptowaehrungen-18216857.html",
+            "urlToImage": "https://media1.faz.net/ppmedia/aktuell/wirtschaft/4250107220/1.8217239/facebook_teaser/wie-wichtig-ist-krypto-fuer.jpg",
+            "publishedAt": "2022-08-05T18:25:29Z",
+            "content": "Die Kryptobranche und die Blockchaintechnik sind untrennbar miteinander verknüpft. Für viele sind Bitcoin, Blockchain und Kryptowährungen fast so etwas wie Synonyme. Doch diese weitgehende Gleichsetz… [+4980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Sami Fathi",
+            "title": "Apple Removes Scam App That Led to Hijacked Facebook Ad Accounts",
+            "description": "Apple has removed an app that it was unknowingly hosting on the App Store that scammed Facebook advertisers and led hackers to use advertisers' ad budgets to run possibly malicious ads on Facebook's platforms, Business Insider reports.\n\n\n\n\n\nThe app previously…",
+            "url": "https://www.macrumors.com/2022/08/05/apple-removes-facebook-scam-app/",
+            "urlToImage": "https://images.macrumors.com/t/m-E25CRT32_J7d8ehY4K-SS-doo=/2250x/article-new/2022/01/iOS-App-Store-General-Feature-Dock-2.jpg",
+            "publishedAt": "2022-08-05T11:54:17Z",
+            "content": "Apple has removed an app that it was unknowingly hosting on the App Store that scammed Facebook advertisers and led hackers to use advertisers' ad budgets to run possibly malicious ads on Facebook's … [+1842 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Who and How To Regulate Crypto (Podcast)",
+            "description": "Each weekday, stacy-marie ishmael dives into everything from Bitcoin to Bored Apes, NFT’s to DeFi, Staking to Web3.",
+            "url": "https://www.bloomberg.com/news/audio/2022-08-05/who-and-how-to-regulate-crypto-podcast",
+            "urlToImage": null,
+            "publishedAt": "2022-08-05T08:39:20Z",
+            "content": "Each weekday, stacy-marie ishmael dives into everything from Bitcoin to Bored Apes, NFTs to DeFi, Staking to Web3. Bloomberg Crypto, from Bloomberg and iHeart Radio, goes deeper than the daily market… [+64 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Olga Kharif",
+            "title": "Crypto Miner Pushback Suggests Ethereum Offshoots Are Coming",
+            "description": "A monkey wrench is about to be thrown into the already complicated transition that the Ethereum blockchain is slated to go through soon.",
+            "url": "https://www.bloomberg.com/news/articles/2022-08-06/crypto-miner-pushback-suggests-ethereum-offshoots-are-coming",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8PqihIiJ6Ng/v0/1200x800.jpg",
+            "publishedAt": "2022-08-06T14:18:16Z",
+            "content": "A monkey wrench is about to be thrown into the already complicated transition that the Ethereum blockchain is slated to go through soon.\r\nIn as early as September, Ethereum is expected to undergo a m… [+4593 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Emma Court",
+            "title": "Losing Weight Without Dieting Is a Tricky, Multibillion-Dollar Enterprise",
+            "description": "What’s the difference between a wellness app and a diet app?",
+            "url": "https://www.bloomberg.com/news/newsletters/2022-08-05/losing-weight-without-dieting-is-a-tricky-multibillion-dollar-enterprise",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isoBykcCkjh0/v0/1200x800.jpg",
+            "publishedAt": "2022-08-05T10:45:28Z",
+            "content": "What to know in techWhat to know in techWhat to know in techGet insights from reporters around the world in the Fully Charged newsletter.Get insights from reporters around the world in the Fully Char… [+4090 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Intercept"
+            },
+            "author": "Eoin Higgins",
+            "title": "FTX-Backed PACs Expand the Crypto Lobby in Congress",
+            "description": "As the young industry flounders, crypto resorts to a method tested by its private-sector predecessors: funding the lawmakers who might regulate it.\nThe post FTX-Backed PACs Expand the Crypto Lobby in Congress appeared first on The Intercept.",
+            "url": "https://theintercept.com/2022/08/05/crypto-lobby-ftx-pacs-sam-bankman-fried/",
+            "urlToImage": "https://theintercept.imgix.net/wp-uploads/sites/1/2022/08/GettyImages-1238428843-ftx-bitcoin-crypto.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800",
+            "publishedAt": "2022-08-05T13:00:01Z",
+            "content": "As recent fluctuations\r\n in the cryptocurrency market have sent the industrys major companies spiraling into bankruptcy, FTX owner Sam Bankman-Fried has emerged as something of a bailout king. The cr… [+10618 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Keith Noonan and Anders Bylund)",
+            "title": "Bitcoin: Bull vs. Bear",
+            "description": "What does the future hold for the market-leading cryptocurrency?",
+            "url": "https://www.fool.com/investing/2022/08/05/bitcoin-bull-vs-bear/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/689074/stacks-of-bitcoins.jpg",
+            "publishedAt": "2022-08-05T09:45:00Z",
+            "content": "Bitcoin(BTC 1.46%) stands as one of the most explosive investments in history. The cryptocurrency is up more than 3,900% over the past decade alone. However, the market-leading cryptocurrency has als… [+4793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (RJ Fulton, Neil Patel, and Michael Byrne)",
+            "title": "3 Reasons You Should Invest In Bitcoin",
+            "description": "There's more to Bitcoin than you might have known.",
+            "url": "https://www.fool.com/investing/2022/08/06/3-reasons-you-should-invest-in-bitcoin/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/694393/bitcoin-plant.jpg",
+            "publishedAt": "2022-08-06T09:00:00Z",
+            "content": "Out of all the cryptocurrencies available today, one stands out from the rest. Aside from being the original and most well-known cryptocurrency, Bitcoin (BTC 0.11%) is also uniquely secure and decent… [+6640 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (RJ Fulton)",
+            "title": "Could Apple Join Forces With Bitcoin?",
+            "description": "Why an integration with Bitcoin could be next for Apple's personal finance ecosystem and what it would look like.",
+            "url": "https://www.fool.com/investing/2022/08/06/could-apple-join-forces-with-bitcoin/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/693637/person-with-sights-set-on-target.jpg",
+            "publishedAt": "2022-08-06T22:11:00Z",
+            "content": "Apple (AAPL -0.14%) is one of the most valuable companies in the entire world. Its embrace of innovation underpins nearly every development and technology it releases to the world. The tech giant has… [+3600 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Neil Rozenbaum)",
+            "title": "Block Reported a Beat, So Why Are Shares Down?",
+            "description": "Crypto winter and a high-inflation environment are weighing on the company.",
+            "url": "https://www.fool.com/investing/2022/08/05/block-reported-a-beat-so-why-are-shares-down/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/694565/sq-stock.png",
+            "publishedAt": "2022-08-05T14:00:00Z",
+            "content": "In this video, I will go over Block's (SQ -1.41%) Q2 earnings report and explain why I will be buying more shares. The company reported a beat on earnings per share and revenue, but the stock is down… [+1315 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (RJ Fulton)",
+            "title": "Why This One Country Alone Can Send Bitcoin and Ethereum Higher",
+            "description": "Economies around the world are ushering in a new era of finance, and Brazil is leading the charge.",
+            "url": "https://www.fool.com/investing/2022/08/05/why-this-one-country-alone-will-send-bitcoin-and-e/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/693621/cryptocurrency-atm-payment-method.jpg",
+            "publishedAt": "2022-08-05T10:15:00Z",
+            "content": "Digital assets have forged a path that can no longer be ignored. They have progressed enough in the past decade or so to the point that countries and cities are beginning to realize that embracing th… [+2962 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Anders Bylund)",
+            "title": "How Silvergate Capital Shares Skyrocketed 74% Higher In July",
+            "description": "The crypto-focused bank rode a wave of rising cryptocurrency prices last month, and then a beefy earnings report lit a fire under the stock.",
+            "url": "https://www.fool.com/investing/2022/08/06/how-silvergate-capital-shares-surged-74-in-july/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/694812/ethereum-and-bitcoin-tokens-on-hundred-dollar-bills.jpg",
+            "publishedAt": "2022-08-06T20:13:00Z",
+            "content": "What happened\r\nShares of Silvergate Capital(SI -0.25%) gained 74.3% in July 2022, according to data from S&amp;P Global Market Intelligence. The regional bank, which became a leading provider of capi… [+2486 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Timothy Green)",
+            "title": "Coinbase's BlackRock Deal Probably Doesn't Matter",
+            "description": "The institutional business is a rounding error for Coinbase.",
+            "url": "https://www.fool.com/investing/2022/08/05/coinbases-blackrock-deal-probably-doesnt-matter/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/694399/bitcoin-getty.jpg",
+            "publishedAt": "2022-08-05T10:40:00Z",
+            "content": "For the most part, Coinbase(COIN 10.01%) generates revenue from charging its retail users transaction fees for buying and selling cryptocurrencies. The company offers some subscriptions and services,… [+3200 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Dave Kovaleski)",
+            "title": "Why Block's Stock Was Knocked Down Today",
+            "description": "The fintech had a bumpy ride en route to a down session as investors digested its second-quarter report.",
+            "url": "https://www.fool.com/investing/2022/08/05/why-blocks-stock-was-knocked-down-today/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/694708/person-looking-at-tablet-hand-on-chin_Qtu6h8X.jpg",
+            "publishedAt": "2022-08-05T21:09:19Z",
+            "content": "What Happened\r\nInvestors took a bit of a ride with Block (SQ -2.20%) on Friday as the stock bounced up and down throughout the trading day. It was down 7.6% to $82.88 shortly after the opening bell, … [+2132 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Katie Brockman)",
+            "title": "2 Reasons to Invest in Ethereum Right Now -- and 1 Reason to Wait",
+            "description": "With a major update on the horizon, is now the time to buy?",
+            "url": "https://www.fool.com/investing/2022/08/06/2-reasons-to-invest-in-ethereum-right-now-and-1-re/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/694266/person-sitting-at-a-desk-looking-at-a-laptop-and-thinking.jpg",
+            "publishedAt": "2022-08-06T09:45:00Z",
+            "content": "Ethereum(ETH 2.63%) has been booming lately, with its price up roughly 53% over the past month. In the midst of a tough crypto winter, this surge has been a promising moment for many investors.\r\nWhet… [+2847 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Keith Noonan and Taylor Carmichael)",
+            "title": "Solana: Bull vs. Bear",
+            "description": "After huge sell-offs, is it time to buy Solana?",
+            "url": "https://www.fool.com/investing/2022/08/06/solana-bull-vs-bear/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/689680/gettyimages-485863805.jpg",
+            "publishedAt": "2022-08-06T11:19:00Z",
+            "content": "Even with recent sell-offs, Solana(SOL -1.48%) stands as one of the cryptocurrency market's most explosively successful coins and projects. Despite trading down roughly 85% from its lifetime high, th… [+5065 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+            "title": "Block, Inc. (SQ) Q2 2022 Earnings Call Transcript",
+            "description": "SQ earnings call for the period ending June 30, 2022.",
+            "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/block-inc-sq-q2-2022-earnings-call-transcript/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+            "publishedAt": "2022-08-05T04:00:34Z",
+            "content": "Image source: The Motley Fool.\r\nBlock, Inc. (SQ 1.85%)Q2 2022 Earnings CallAug 04, 2022, 5:00 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participants</li>… [+54113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Chris Hill)",
+            "title": "UC Berkeley's Chief Innovation Officer Talks Interest Rates, Crypto, and More",
+            "description": "The Federal Reserve could hike short-term interest rates to 4%, and that still might not be enough to cool inflation.",
+            "url": "https://www.fool.com/investing/2022/08/06/uc-berkeleys-chief-innovation-officer-talks-intere/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/691825/mfm_20220724.jpg",
+            "publishedAt": "2022-08-06T13:45:00Z",
+            "content": "Rich Lyons is the first chief innovation and entrepreneurship officer for the University of California, Berkeley. Before that, he spent a decade as the dean of Berkley's Haas School of Business. He j… [+25475 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+            "title": "Shift4 Payments, Inc. (FOUR) Q2 2022 Earnings Call Transcript",
+            "description": "FOUR earnings call for the period ending June 30, 2022.",
+            "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/shift4-payments-inc-four-q2-2022-earnings-call-tra/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+            "publishedAt": "2022-08-05T08:00:44Z",
+            "content": "Image source: The Motley Fool.\r\nShift4 Payments, Inc. (FOUR 6.54%)Q2 2022 Earnings CallAug 04, 2022, 8:30 a.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Parti… [+75102 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Numerama"
+            },
+            "author": "Gabriel Thierry",
+            "title": "Crypto-portrait : Vitalik Buterin, l’idéaliste geek de la crypto",
+            "description": "Ou comment Vitalik Buterin, un Canadien d'origine russe surdoué, a révolutionné la crypto après une mésaventure dans World of Warcraft.« Est-ce qu’il prend au moins un petit-déjeuner ? » Quand le magazine américain Time fait sa Une avec Vitalik",
+            "url": "https://www.numerama.com/tech/1053512-vitalik-buterin-lidealiste-geek-de-la-crypto.html",
+            "urlToImage": "https://www.numerama.com/wp-content/uploads/2022/07/vitalik-buterin-3.jpg",
+            "publishedAt": "2022-08-06T12:03:00Z",
+            "content": "Ou comment Vitalik Buterin, un Canadien d’origine russe surdoué, a révolutionné la crypto après une mésaventure dans World of Warcraft.\r\n« Est-ce qu’il prend au moins un petit-déjeuner ? » Quand le m… [+6920 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Q.ai - Powering a Personal Wealth Movement, Contributor, \n Q.ai - Powering a Personal Wealth Movement, Contributor\n https://www.forbes.com/sites/qai/",
+            "title": "Coinbase And BlackRock Cozy Up On Bitcoin Bandwagon",
+            "description": "Coinbase and BlackRock announced a new partnership Thursday to allow BlackRock clients to trade and manage crypto in-house.",
+            "url": "https://www.forbes.com/sites/qai/2022/08/05/coinbase-and-blackrock-cozy-up-on-bitcoin-bandwagon/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62e3fbf02d8df711259932d6/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2022-08-05T13:24:57Z",
+            "content": "AFP via Getty Images\r\nKey takeaways\r\n<ul><li>Coinbase and BlackRock announced a new partnership Thursday to allow BlackRock clients to trade and manage crypto in-house</li><li>The partnership combine… [+7735 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
+            "title": "‘A Positive Catalyst’—Bitcoin Price Now Poised For A Huge $180 Billion Fed Bombshell",
+            "description": "The bitcoin and crypto market is closely watching for the next U.S. consumer price index (CPI) print, due Wednesday, which could mean the Federal Reserve scales back its planned interest rate hike at its September meeting...",
+            "url": "https://www.forbes.com/sites/billybambrough/2022/08/06/a-positive-catalyst-bitcoin-price-now-poised-for-a-huge-180-billion-fed-bombshell/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/615182742e94896deebf4f29/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2022-08-06T11:15:49Z",
+            "content": "BitcoinBTC\r\n has leveled off since its July rally that saw its price convincingly climb over $20,000even as the market braces for an earthquake that's \"getting closer by the day.\"\r\nSubscribenow to Fo… [+3179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Dan Runkevicius, Senior Contributor, \n Dan Runkevicius, Senior Contributor\n https://www.forbes.com/sites/danrunkevicius/",
+            "title": "‘HODLer Capitulation’ Is Near—Crypto Is Braced For Major Turning Point As Price Of Bitcoin, Ethereum, BNB, XRP, Solana, Cardano, Luna, Shiba Inu, And Dogecoin Recover",
+            "description": "The much-awaited crypto redistribution may be near. Meanwhile, the price of bitcoin, ethereum, BNB, XRP, solana, cardano, luna, shiba inu, and dogecoin rebound",
+            "url": "https://www.forbes.com/sites/danrunkevicius/2022/08/05/hodler-capitulation-is-near-crypto-is-braced-for-major-turning-point-as-price-of-bitcoin-ethereum-bnb-xrp-solana-cardano-luna-shiba-inu-and-dogecoin-recover/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62ed2066b52b08c4c0373b0f/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2022-08-05T13:54:02Z",
+            "content": "crypto\r\nGetty Images\r\nThe crypto rebound is alive and kicking.\r\nOver the past few week, the price of bitcoin soared 10.2%, currently trading at $23,076, and the ethereum price climbed 23% to just und… [+2980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Art Malkov, Forbes Councils Member, \n Art Malkov, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinesscouncil/people/artmalkov/",
+            "title": "Web3 Interoperability: The Next Great Leap For Businesses",
+            "description": "Let’s take a look at how the blockchain industry has evolved and what that means for businesses as a whole.",
+            "url": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/05/web3-interoperability-the-next-great-leap-for-businesses/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/61af62a9056c0bd4e1a728d7/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2022-08-05T11:00:00Z",
+            "content": "Art Malkov is a Columbia University Blockchain Accelerator Advisor.\r\ngetty\r\nThe blockchain revolution is upon us. What began as an experiment in finance and technology, initiated by Bitcoin, has now … [+6536 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "JJ Kinahan, Senior Contributor, \n JJ Kinahan, Senior Contributor\n https://www.forbes.com/sites/jjkinahan/",
+            "title": "After A Boom On Employment Can Stocks Carry The Momentum?",
+            "description": "With another week in the books, it feels like we’ve largely managed to make it to the other side unscathed and walking with confidence.",
+            "url": "https://www.forbes.com/sites/jjkinahan/2022/08/05/after-a-boom-on-employment-can-stocks-carry-the-momentum/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62ed16288c1cbe56597b70bb/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2022-08-05T13:16:11Z",
+            "content": "After a much stronger than expected jobs number, Wall St. braces for a weaker open. (Photo by Angela ... [+] Weiss / AFP) (Photo by ANGELA WEISS/AFP via Getty Images)\r\nAFP via Getty Images\r\nKey Takea… [+4782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Lawrence Wintermeyer, Contributor, \n Lawrence Wintermeyer, Contributor\n https://www.forbes.com/sites/lawrencewintermeyer/",
+            "title": "The Chip Company You’ve Never Heard Of That Powers The Devices In Your Life – And It’s In Taiwan",
+            "description": "Taiwan Semiconductor Manufacturing Limited (TSMC) is the world’s largest contract manufacturer of semiconductor chips that power our phones, laptops, cars, and fridges. You’ve likely never heard of TSMC, and it is in Taiwan.",
+            "url": "https://www.forbes.com/sites/lawrencewintermeyer/2022/08/05/the-chip-company-youve-never-heard-of-that-powers-the-devices-in-your-life--and-its-in-taiwan/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62ed10a2e1577106df373b0b/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2022-08-05T12:50:07Z",
+            "content": "Bill Tai - Employee 001 at TSMC\r\nBill Tai\r\nTaiwan Semiconductor Manufacturing Limited (TSMC) is the worlds largest contract manufacturer of semiconductor chips that power our phones, laptops, cars, a… [+4798 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Olhardigital.com.br"
+            },
+            "author": "William Schendes",
+            "title": "Ações de empresa de Bitcoin de Jack Dorsey despencam",
+            "description": "As ações da Block, empresa de pagamentos digitais e bitcoin de Jack Dorsey, fundador do Twitter, caíram aproximadamente 7% nas negociações pré-mercado, nesta sexta-feira (5). A desvalorização vem após a companhia divulgar relatório com as perdas do trimestre …",
+            "url": "https://olhardigital.com.br/2022/08/05/pro/acoes-empresa-bitcoin-jack-dorsey-despencam/",
+            "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2021/01/shutterstock_1892434726.jpg",
+            "publishedAt": "2022-08-05T17:26:48Z",
+            "content": "As aÃ§Ãµes da Block, empresa de pagamentos digitais e bitcoin de Jack Dorsey, fundador do Twitter, caÃ­ram aproximadamente 7% nas negociaÃ§Ãµes prÃ©-mercado, nesta sexta-feira (5). A desvalorizaÃ§Ã£o… [+1590 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "manager-magazin.de"
+            },
+            "author": "manager magazin",
+            "title": "Börse: Allianz, Deutsche Post und US-Arbeitsmarktdaten am Freitag im Fokus",
+            "description": "Vor den mit Spannung erwarteten neuen US-Arbeitsmarktdaten halten die Dax-Anleger ihr Pulver trocken. Im Fokus stehen am Morgen Geschäftszahlen der Allianz und der Deutschen Post. Bitcoin und der Ölpreis sind leicht gestiegen.",
+            "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-allianz-deutsche-post-und-us-arbeitsmarktdaten-am-freitag-im-fokus-a-0537f2ec-e053-4c7b-933c-ea9a246d2112",
+            "urlToImage": "https://cdn.prod.www.manager-magazin.de/images/21ccf2cd-e913-406f-918e-e46b588fc3c8_w1280_r1.77_fpx65.35_fpy44.99.jpg",
+            "publishedAt": "2022-08-05T06:36:00Z",
+            "content": "Gute Quartalszahlen von Unternehmen hatten am Vortag dem Aktienmarkt geholfen. Die großen übergeordneten Sorgen seitens der Geopolitik, der Inflation sowie der generellen konjunkturellen Situation se… [+475 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Ben Alaimo",
+            "title": "Block: Bitcoin Bloodbath But Gross Profits Are Strong",
+            "description": "Block has two powerful ecosystems with Cash App and Merchant Payments. See why SQ stock could be a great long-term investment on the future of fintech.",
+            "url": "https://seekingalpha.com/article/4530251-block-bitcoin-bloodbath-but-gross-profits-are-strong",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1321753348/image_1321753348.jpg?io=getty-c-w750",
+            "publishedAt": "2022-08-05T16:44:23Z",
+            "content": "Joe Raedle\r\nBlock, Inc. (NYSE:SQ), formerly known as Square, is a leading Fintech company which has built two ecosystems of products, its Square Merchant services and its Cash App. The company's Cash… [+8467 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vaneck.com"
+            },
+            "author": "VanEck",
+            "title": "Large-Cap Tokens And DeFi Lead Crypto Rally",
+            "description": "Digital assets prices rallied in July, with Bitcoin up 19% and Ethereum up 58%. Among the crypto sectors we track, DeFi was the best-performing sector. Read more.",
+            "url": "https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-large-cap-tokens-and-defi-lead-crypto-rally/",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1326770854/image_1326770854.jpg?io=getty-c-w750",
+            "publishedAt": "2022-08-06T13:50:00Z",
+            "content": "Chinnapong\r\nDigital assets prices rallied in July, with Bitcoin up 19% and Ethereum up 58%. Among the crypto sectors we track, DeFi was the best-performing sector.\r\nLarge-caps tokens led digital asse… [+38268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "SA Stocks To Watch",
+            "title": "Stocks To Watch: Spotlight On Inflation, GE, Auto Names And Crypto Comeback",
+            "description": "Get ahead of the market by subscribing to Seeking Alpha's Stocks to Watch, a preview of key events scheduled for the coming week",
+            "url": "https://seekingalpha.com/article/4530451-stocks-to-watch-inflation-auto-buzz-and-crypto-comeback-hopes",
+            "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "publishedAt": "2022-08-06T11:00:00Z",
+            "content": "Get ahead of the market by subscribing to Seeking Alpha's Stocks to Watch, a preview of key events scheduled for the coming week. The newsletter keeps you informed of the biggest stories set to make … [+9681 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "SA Transcripts",
+            "title": "Block, Inc. (SQ) CEO Jack Dorsey on Q2 2022 Results - Earnings Call Transcript",
+            "description": "Block, Inc. (NYSE:NYSE:SQ) Q2 2022 Earnings Conference Call August 4, 2022 5:00 PM ETCompany ParticipantsNikhil Dixit - Head of Investor RelationsJack Dorsey - Chief Executive Officer,...",
+            "url": "https://seekingalpha.com/article/4529984-block-inc-sq-ceo-jack-dorsey-on-q2-2022-results-earnings-call-transcript",
+            "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "publishedAt": "2022-08-05T00:58:06Z",
+            "content": "Block, Inc. (NYSE:SQ) Q2 2022 Earnings Conference Call August 4, 2022 5:00 PM ET\r\n Company Participants\r\n Nikhil Dixit - Head of Investor Relations\r\n Jack Dorsey - Chief Executive Officer, Chairman &… [+53268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Jamie Crawley",
+            "title": "Crypto Miner Argo Blockchain Faced Equipment Challenges, Higher Costs in July",
+            "description": "Argo Blockchain (ARB) mined 219 bitcoin or bitcoin equivalents (BTC) in July as it combated problems with its equipment and electricity costs.",
+            "url": "https://www.coindesk.com/business/2022/08/05/crypto-miner-argo-blockchain-faced-equipment-challenges-higher-costs-in-july/",
+            "urlToImage": "https://www.coindesk.com/resizer/ab6VNg1d4OvbggQ9vXcTgp_BQUc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KQESWFNMUFARLKG4H7RPQJEFRI.jpg",
+            "publishedAt": "2022-08-05T08:37:24Z",
+            "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nThe leader in news and information on cryptocurrency, digital assets and the future o… [+556 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Lyllah Ledesma, Omkar Godbole",
+            "title": "First Mover Americas: Bitcoin's Rally Loses Steam After US Jobs Report",
+            "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for August 5, 2022.",
+            "url": "https://www.coindesk.com/markets/2022/08/05/first-mover-americas-bitcoins-rally-loses-steam-after-us-jobs-report/",
+            "urlToImage": "https://www.coindesk.com/resizer/RPHuxgVjQFrnzSNo8uPTbnBIO_w=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LIZM4MGDPRDTXPX2CZY74EDMB4.jpg",
+            "publishedAt": "2022-08-05T14:31:27Z",
+            "content": "<ul><li>Price Point: Bitcoin fell as the U.S. jobs report showed hiring accelerated in July from June.\r\n</li><li>Market Moves: Omkar Godbole reports on Flow token's price rally of 40% and how the sur… [+4576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Glenn Williams, Jimmy He",
+            "title": "Market Wrap: Bitcoin Falls Initially on US Jobs Report, Grinds Higher Later",
+            "description": "The positive jobs report may lead to additional Federal Reserve monetary tightening.",
+            "url": "https://www.coindesk.com/markets/2022/08/05/market-wrap-bitcoin-falls-initially-on-us-jobs-report-grinds-higher-later/",
+            "urlToImage": "https://www.coindesk.com/resizer/GMjs_YFRRBdbbjvqri_Q42iHOZs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XM2HJS7BSNHWPJNCSEZHRQSX7M.jpg",
+            "publishedAt": "2022-08-05T20:27:19Z",
+            "content": "Bitcoins (BTC) price increased 2% on Friday, average volume. Currently near $23,000, the largest cryptocurrency by market capitalization was on track to close out the week down 2%.\r\nBTCs price move c… [+5210 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Parikshit Mishra",
+            "title": "BTC-e Operator Alexander Vinnik has Been Extradited to the US: Report",
+            "description": "The report comes weeks after U.S. authorities called off their previous extradition request, thereby paving the way for Vinnik to be brought to the U.S.",
+            "url": "https://www.coindesk.com/business/2022/08/05/btc-e-operator-alexander-vinnik-has-been-extradited-to-the-us-report/",
+            "urlToImage": "https://www.coindesk.com/resizer/JrDrg5IAn9gHlXw-2kETunciryw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NKNBXGHYUJAGHNDYJN656A5KMQ.jpg",
+            "publishedAt": "2022-08-05T06:15:03Z",
+            "content": "BTC-e operator Alexander Vinnik has been extradited to the U.S. from Greece, according to a CNN report, citing Vinnik's French lawyer Frederic Belot.\r\nA few weeks ago, U.S. authorities had called off… [+1336 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Michael J. Casey",
+            "title": "Crypto Needs a New Narrative This Winter",
+            "description": "Crypto recovery, and price gains, depend on use cases this time around",
+            "url": "https://www.coindesk.com/layer2/2022/08/05/the-price-for-cryptos-recovery-a-new-narrative/",
+            "urlToImage": "https://www.coindesk.com/resizer/_YYaqQBrMQKi7uRkO-CIxLNSSl4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PPUQ4PRH5FE2TCU2O6RGIB6OJ4.jpg",
+            "publishedAt": "2022-08-05T18:03:52Z",
+            "content": "In these tough times, a bit of historical perspective is useful. Lets talk about Mt. Gox.\r\nAfter the February 2014 collapse of the Tokyo-based bitcoin exchange, the conventional wisdom was that its c… [+4781 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Helene Braun",
+            "title": "US Adds 528K Jobs in July, More Than Doubling Estimates",
+            "description": "Investors are likely to expect the Federal Reserve to continue aggressively hiking interest rates in response.",
+            "url": "https://www.coindesk.com/markets/2022/08/05/us-adds-528k-jobs-in-july-more-than-doubling-estimates/",
+            "urlToImage": "https://www.coindesk.com/resizer/2XBMftkFNPBwe-on84cfWFMgc5I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PEIWW2YGFRED3FO63AAPH5JJEA.jpg",
+            "publishedAt": "2022-08-05T12:50:42Z",
+            "content": "The U.S. economy saw a stark acceleration in hiring from July, putting to rest for the moment fears of a recession.\r\nU.S. employers added 528,000 jobs, a report by the Labor Department on Friday show… [+2826 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Margaux Nijkerk",
+            "title": "What the Merge Means for Ethereum Miners",
+            "description": "There is speculation about moving to Ethereum Classic once proof-of-work is gone from the main chain, but mining pools remain split on where they will turn in a post-Merge world.",
+            "url": "https://www.coindesk.com/tech/2022/08/05/what-the-merge-means-for-ethereum-miners/",
+            "urlToImage": "https://www.coindesk.com/resizer/UY3Vw6LR0QYhPUxqeIIGzYK8Aqo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3VL5MGYR5JEAZIFC3NGVOKJMRA.jpg",
+            "publishedAt": "2022-08-05T18:28:25Z",
+            "content": "Where will Ethereums miners go when they cant mine on Ethereum any more? Thats the $19 billion question.\r\nIf all goes according to plan, the so-called Merge will take place in late September, complet… [+4865 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "David Z. Morris",
+            "title": "The Fake Team That Made Solana DeFi Look Huge",
+            "description": "We already knew that crypto developers cannot always be trusted. But can we even trust the data?",
+            "url": "https://www.coindesk.com/layer2/2022/08/05/the-fake-team-that-made-solana-defi-look-huge/",
+            "urlToImage": "https://www.coindesk.com/resizer/FcphlMH334Qnsunr1QPzeVn2ULM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/567GIFESABBSPMSQWACFL3S4MQ.jpg",
+            "publishedAt": "2022-08-05T17:25:31Z",
+            "content": "CoinDesk reporters Danny Nelson and Tracy Wang on Thursday released a bombshell report that could tarnish the reputation of the entire Solana ecosystem. More than that, the dizzying tale highlights s… [+5285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Cheyenne Ligon, Elizabeth Napolitano",
+            "title": "In Crypto Winter, Jesse Powell’s Pirate-King Leadership Style Might Be the New Normal",
+            "description": "Less than 1% of employees have taken the CEO’s buyout offer since he laid down the law on culture. Do employees see Kraken as a “based” place to work, or just somewhere to ride out the bear market?",
+            "url": "https://www.coindesk.com/layer2/2022/08/06/in-crypto-winter-jesse-powells-pirate-king-leadership-style-might-be-the-new-normal/",
+            "urlToImage": "https://www.coindesk.com/resizer/Vf8HdqWU2VbrIHXjvA7QH7pK8D0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GJUZ7FCAGNABFJV4IYDQ2PKWDA.jpg",
+            "publishedAt": "2022-08-06T16:15:37Z",
+            "content": "It seemed like the perfect recipe for a major blowback.\r\nKraken CEO Jesse Powell ruffled feathers in June after a New York Times article detailed a corporate culture war raging at the cryptocurrency … [+16143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crooksandliars.com"
+            },
+            "author": "Steve M.",
+            "title": "No Punishment Will Stop Alex Jones From Remaining Awful And Rich",
+            "description": "As you know, a jury in Texas ordered Alex Jones to pay more than $4 million to parents of a Sandy Hook shooting victim who've experienced years of harassment since the massacre, largely because Jones repeatedly referred to the shooting as a hoax and the paren…",
+            "url": "https://crooksandliars.com/2022/08/no-punishment-will-stop-alex-jones",
+            "urlToImage": "https://crooksandliars.com/files/primary_image/21/12/alex_jones_scrrengrab.png",
+            "publishedAt": "2022-08-06T13:29:59Z",
+            "content": "As you know, a jury in Texas ordered Alex Jones to pay more than $4 million to parents of a Sandy Hook shooting victim who've experienced years of harassment since the massacre, largely because Jones… [+7071 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin Magazine"
+            },
+            "author": "Bitcoin 2022",
+            "title": "The Bitcoin Conference 2022 Pitch Day Showcases The Next Generation Of Bitcoin Startups",
+            "description": "Pitch Day at Bitcoin 2022 in Miami gave startups in the space an unprecedented chance to drive their projects forward.",
+            "url": "https://bitcoinmagazine.com/business/bitcoin-conference-2022-pitch-day",
+            "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTkxMzkwMzI3Njk5OTQwODk3/unnamed-32.png",
+            "publishedAt": "2022-08-05T14:20:55Z",
+            "content": "The Bitcoin Conference 2022's Pitch Day was a platform for the next generation of Bitcoin startups to put ideas and products to the test in a competitive format. Taking place during Enterprise Day, t… [+4861 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin Magazine"
+            },
+            "author": "Namcios",
+            "title": "Tapsigner Bitcoin Hardware Wallet: Security Meets Convenience?",
+            "description": "Coinkite’s new credit card-like bitcoin hardware wallet aims to unite affordability with convenience to scale cold storage to a broader market worldwide.",
+            "url": "https://bitcoinmagazine.com/technical/tapsigner-bitcoin-security-meets-convenience",
+            "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTkxNDA2NjU5MzEzMDgzOTM3/img_0775.jpg",
+            "publishedAt": "2022-08-05T20:29:23Z",
+            "content": "Bitcoin company Coinkite has launched its newest hardware wallet, Tapsigner, in an attempt to facilitate cold-storage bitcoin self-custody.\r\nThe product, which resembles a credit card more than tradi… [+6718 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin Magazine"
+            },
+            "author": "Prasad Prabhakaran",
+            "title": "What Happens To My Bitcoin When I Die?",
+            "description": "It’s important for Bitcoiners to plan for the unexpected and protect the future of their assets.",
+            "url": "https://bitcoinmagazine.com/culture/what-happens-to-my-bitcoin-when-i-die",
+            "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTkxMTk1NTA1ODM1OTEwODky/127-btc.png",
+            "publishedAt": "2022-08-05T00:00:00Z",
+            "content": "This is an opinion editorial by Prasad Prabhakaran, COO and cofounder of HexaWallet.\r\nOver time, an estimated 4 million bitcoin have been lost and are now in inaccessible wallets. It is unknown how m… [+5212 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin Magazine"
+            },
+            "author": "Andrew A",
+            "title": "The Great Wall: Why China’s Central Planners Can’t Handle Bitcoin",
+            "description": "There is historical precedent for China’s resistance to bitcoin, a money that enables freedom and individual pursuit of capital.",
+            "url": "https://bitcoinmagazine.com/culture/china-planners-cant-handle-bitcoin",
+            "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTgyODkzMTc2NzQ5NTY1MzQ3/img_5980.png",
+            "publishedAt": "2022-08-06T01:00:00Z",
+            "content": "This is an opinion editorial by Andrew A, a Bitcoin educator and contributor to Bitcoin Magazine\r\nMuch like the tragic figures of Greek mythology, China has a long and storied history of snatching de… [+9275 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin Magazine"
+            },
+            "author": "Dylan LeClair And Sam Rule",
+            "title": "Bitcoin Price Continues To Drop With Seven Daily Red Candles",
+            "description": "As equities continue to bid, bitcoin’s price action has started to meaningfully turn over, but while the S&P 500 rallies while bitcoin doesn’t follow.",
+            "url": "https://bitcoinmagazine.com/markets/bitcoin-price-continues-to-drop-with-seven-daily-red-candles",
+            "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTkwNTkwNjQ1ODYwNTc0MzMz/bearish-chart-analysis-trading.png",
+            "publishedAt": "2022-08-06T03:00:00Z",
+            "content": "The below is an excerpt from a recent edition of Bitcoin Magazine Pro, Bitcoin Magazine's premium markets newsletter. To be among the first to receive these insights and other on-chain bitcoin market… [+2140 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin Magazine"
+            },
+            "author": "Captain Sidd",
+            "title": "Bitcoiners Are Building The Future They Want To See: Experiences From 30 Bitcoin Meetups",
+            "description": "While traveling across the country visiting Bitcoin meetups, Captain Sidd found Bitcoiners have many things in common, but most importantly, they are all doers.",
+            "url": "https://bitcoinmagazine.com/culture/bitcoin-users-are-building-the-future",
+            "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTg3NjI3MzI0ODUyNzQyMDMx/lighthouse.png",
+            "publishedAt": "2022-08-07T07:00:00Z",
+            "content": "This is an opinion editorial by Captain Sidd, finance writer and contributor to Bitcoin Magazine.\r\n“When deeds speak, words are nothing.” — African proverb\r\nGrokking Bitcoin’s potential impact on the… [+12404 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin Magazine"
+            },
+            "author": "Bitcoin Magazine",
+            "title": "A European Debt Crisis Is Bullish For Bitcoin",
+            "description": "With the current macroeconomic crisis unfolding and many European countries at risk of debt defaults, bitcoin enters the ring as a neutral reserve asset.",
+            "url": "https://bitcoinmagazine.com/markets/a-european-debt-crisis-is-bullish-for-bitcoin",
+            "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTg1MDk0MzA2Njg2NzcyNTA1/img_7070.png",
+            "publishedAt": "2022-08-05T04:00:00Z",
+            "content": "This is a transcribed excerpt of the “Bitcoin Magazine Podcast,” hosted by P and Q. In this episode, they are joined by Brandon Green to talk about how the European debt crisis is bullish for bitcoin… [+6827 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin Magazine"
+            },
+            "author": "Bitcoin Magazine",
+            "title": "Which Developed Country Will Be The First To Adopt Bitcoin?",
+            "description": "China and Russia seem to be cooperating in their move to back their currencies with commodities. Will Japan be the first developed nation to adopt bitcoin?",
+            "url": "https://bitcoinmagazine.com/markets/which-developed-country-will-be-the-first-to-adopt-bitcoin",
+            "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTkwMzYwODg2MzE2MTE1MzQ4/draper-moon-rocket-bitcoin-studio-demo-pitch.png",
+            "publishedAt": "2022-08-06T02:00:00Z",
+            "content": "This is a transcribed excerpt of the “Bitcoin Magazine Podcast,” hosted by P and Q. In this episode, they are joined by Jeff Ross to talk about why he thinks we are still in a bear market and which c… [+5355 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin Magazine"
+            },
+            "author": "Wartime Microchad",
+            "title": "Border Wallets: A New Way to Create and Easily Memorize Bitcoin Seed Phrases",
+            "description": "Using patterns to remember bitcoin seed phrases is a useful tool which can come in handy if someone is needing to move across borders without being detected.",
+            "url": "https://bitcoinmagazine.com/technical/border-wallets-help-users-memorize-bitcoin-seed-phrases",
+            "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTkxNDAxMTQ0NTc1MDc1ODcz/border-wallets-seed-phrase-recovery-top-photo.png",
+            "publishedAt": "2022-08-06T09:30:00Z",
+            "content": "This is an opinion editorial by Wartime Microchad, a contributor for Bitcoin Magazine.\r\nIntroduction\r\nSince the introduction of Bitcoin Improvement Proposal (BIP) 39, Bitcoiners have had the option t… [+10659 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin Magazine"
+            },
+            "author": "Shawn Amick",
+            "title": "Hut 8 Maintains HODL Strategy, Adds 330 BTC To Treasury In July",
+            "description": "Hut 8 added 330 BTC to its balance sheet in July as it continues to hold 100% of the bitcoin it mines, while most public miners capitulate.",
+            "url": "https://bitcoinmagazine.com/business/hut-8-mining-keeps-holding-bitcoin",
+            "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTc5Mjk3NzYxMzg3MjkyMzEx/hut-8-mining-on-sustainability.jpg",
+            "publishedAt": "2022-08-05T13:37:56Z",
+            "content": "<ul><li>Hut 8 Mining produced an additional 330 BTC in the month of July.</li><li>By the end of the month, the company was operating at 2.9 EH/s and continues to receive monthly shipments of addition… [+1732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin Magazine"
+            },
+            "author": "Ansel Lindner",
+            "title": "The Globalists Are Bluffing And It’s Time To Call Them Out",
+            "description": "Though the Biden administration demonstrates globalist tendencies, Nancy Pelosi’s trip to Taiwan brings up some nuances to the geopolitical chessboard.",
+            "url": "https://bitcoinmagazine.com/markets/calling-out-the-globalists-bluffs",
+            "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTg0MjM1MzU3Nzg3NjYyMTY1/revenge-of-the-nodes.png",
+            "publishedAt": "2022-08-05T03:00:00Z",
+            "content": "(Source)Watch This Episode On YouTube\r\nListen To This Episode Here: \r\n“Fed Watch” is a macro podcast, true to bitcoin’s rebellious nature. Each episode, we question mainstream and Bitcoin narratives … [+7415 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Expansion.com"
+            },
+            "author": "Juande Portillo",
+            "title": "15.000 contribuyentes podrán pagar menos IRPF por sus pérdidas con criptomonedas",
+            "description": "El pasado 30 de junio concluyó la primera Campaña de la Renta en la que Hacienda ha exigido declarar específicamente las ganancias y pérdidas patrimoniales que el contribuyente obt",
+            "url": "https://www.expansion.com/fiscal/2022/08/06/62ed9003468aebf85f8b45cb.html",
+            "urlToImage": "https://phantom-expansion.unidadeditorial.es/1698e1b9877328ad9ab1715ccee94a13/crop/0x0/2044x1363/resize/1200/f/jpg/assets/multimedia/imagenes/2022/08/05/16597360218858.jpg",
+            "publishedAt": "2022-08-05T22:19:40Z",
+            "content": "Bitcoin en un gráfico a la baja\r\nDREAMSTIME EXPANSION\r\nLa primera Campaña de la Renta en la que se detalla la operativa con monedas virtuales se salda con 50.000 declarantes, 35.000 que ganan 759 mil… [+517 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mindmatters.ai"
+            },
+            "author": null,
+            "title": "Why Don't Some Tech Moguls Like Web3, the New Internet? - Walter Bradley Center for Natural and Artificial Intelligence",
+            "description": "However, some developers want to go further and make Web3 a virtual reality in which our avatars can live, as in the film Ready Player One.",
+            "url": "https://mindmatters.ai/2022/08/why-dont-some-tech-moguls-like-web3-the-new-internet/",
+            "urlToImage": "https://mindmatters.ai/wp-content/uploads/sites/2/2022/08/automotive-engineer-use-virtual-reality-headset-for-virtual-electric-car-3d-model-design-analysis-and-improvement-3d-graphics-visualization-shows-fully-developed-vehicle-prototype-analysed-optimized-stockpack-adobe-stock-scaled.jpg",
+            "publishedAt": "2022-08-05T00:23:50Z",
+            "content": "In this weeks podcast, Web3: The next generation of the internet (August 4, 2022), Walter Bradley Center director Robert J. Marks interviews graduate students Adam Goad and Austin Egbert, both in com… [+8092 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dallasinnovates.com"
+            },
+            "author": "Dallas Innovates, Dallas Innovates | Staff Report",
+            "title": "The Last Word: Rasheda Walker on NPower Texas' Tech Fundamentals Program - dallasinnovates.com",
+            "description": "A recent graduate of the NPower Texas Tech Fundamentals program, Walker is a testament to what the nonprofit's free 16-week training course can offer. Before joining the program, Walker was facing the most difficult period of her life. When she saw the organi…",
+            "url": "https://dallasinnovates.com/the-last-word-rasheda-walker-on-npower-texas-tech-fundamentals-program/",
+            "urlToImage": "https://s24806.pcdn.co/wp-content/uploads/2022/08/Rasheda-Walker-is-an-NPower-Tech-Fundamentals-graduate.jpg",
+            "publishedAt": "2022-08-05T23:17:42Z",
+            "content": "Rasheda WalkerApprentice CITI.on the training she received from NPower Texas’ free Tech Fundamentals program.\r\nA recent graduate of the NPower Texas’ Tech Fundamentals program, Walker is a testament … [+3195 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kdnuggets.com"
+            },
+            "author": "Nahla Davies",
+            "title": "Where Does Data Come From?",
+            "description": "In this article, we will go over the top five ways to collect or receive data, whether to help optimize an AI-driven machine or simply forecast future consumer demand.",
+            "url": "https://www.kdnuggets.com/2022/08/data-come.html",
+            "urlToImage": "https://www.kdnuggets.com/wp-content/uploads/davies_data_come_1-scaled.jpg",
+            "publishedAt": "2022-08-05T12:00:16Z",
+            "content": "Photo by Christina Morillo\r\nData is driving the world forward at an increasingly fast pace. It is used to aid machine learning, optimize AI-driven computers, and predict future outcomes with incredib… [+7625 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vnexpress.net"
+            },
+            "author": "VnExpress",
+            "title": "Một tháng bất ổn chờ đón người chơi tiền số",
+            "description": "Chỉ trong bốn ngày đầu tiên của tháng 8, lĩnh vực tiền điện tử đã bị bủa vây bởi hàng loạt sự kiện tiêu cực.",
+            "url": "https://vnexpress.net/mot-thang-bat-on-cho-don-nguoi-choi-tien-so-4495960.html",
+            "urlToImage": "https://vcdn1-sohoa.vnecdn.net/2022/08/04/AnhchupManhinh20220804luc17300-7835-8647-1659609122.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cY2eFjuZJ20Zx0yQYaVs7A",
+            "publishedAt": "2022-08-05T01:56:16Z",
+            "content": "Ch trong bn ngày u tiên ca tháng 8, lnh vc tin in t ã b ba vây bi hàng lot s kin tiêu cc.T u nm, lnh vc tin s bt u i xung vi nhiu thông tin tiêu cc và các chuyên gia cho rng th trng bt u i vào giai o… [+4166 chars]"
+        },
+        {
+            "source": {
+                "id": "wirtschafts-woche",
+                "name": "Wirtschafts Woche"
+            },
+            "author": "Saskia Littmann",
+            "title": "Nach dem Solana-Hack: Wo sind Krypto-Coins sicher verwahrt?",
+            "description": "Immer wieder gerät die Kryptowelt durch Hackerangriffe ins Wanken, zuletzt traf es die Kryptowährung Solana und den Dienstleister Nomad. Viele Anleger fragen sich deshalb, wie sie ihre Coins sicher aufbewahren können.",
+            "url": "https://www.wiwo.de/finanzen/boerse/nach-dem-solana-hack-wo-sind-krypto-coins-sicher-verwahrt-/28577470.html",
+            "urlToImage": "https://www.wiwo.de/images/17-june-2022-hand-holding-credit-card-and-bitcoin-gold-coin-in-front-of-laptop-computer-screen-for-online-buying-and-t/28577838/3-format11240.jpg",
+            "publishedAt": "2022-08-05T14:43:49Z",
+            "content": "Schon wieder haben mehrere Hackerangriffe die Krypto-Welt in Schrecken versetzt. Viele treibt die Frage um, ob ihre Coins noch sicher sind. Erst Anfang der Woche waren tausende Nutzer vom Angriff auf… [+5477 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STERN.de"
+            },
+            "author": "STERN.de",
+            "title": "Staatsanwaltschaft: Bitcoin-Erpresser droht mit Sprengstoffexplosion: U-Haft",
+            "description": "Rund drei Jahre nach einem angedrohten Sprengstoffanschlag auf ein Unternehmen und der Erpressung mehrerer Hunderttausend Euro in der Kryptowährung Bitcoin sitzt ein Mann in Untersuchungshaft. Polizei und Staatsanwaltschaft in Karlsruhe werfen dem 53-Jährigen…",
+            "url": "https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/staatsanwaltschaft--bitcoin-erpresser-droht-mit-sprengstoffexplosion--u-haft-32604812.html",
+            "urlToImage": "https://image.stern.de/6681672/t/31/v5/w1440/r1.7778/-/video-fallback-image.jpg",
+            "publishedAt": "2022-08-05T10:07:21Z",
+            "content": "Rund drei Jahre nach einem angedrohten Sprengstoffanschlag auf ein Unternehmen und der Erpressung mehrerer Hunderttausend Euro in der Kryptowährung Bitcoin sitzt ein Mann in Untersuchungshaft. Polize… [+1291 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Designer-daily.com"
+            },
+            "author": "Mirko Humbert",
+            "title": "What You Need To Know About USA Crypto Taxes 2022",
+            "description": "Are you a U.S. citizen who has been investing in cryptocurrencies? If so, it’s important to understand how your taxes will be affected come April 15th, 2022. This guide will provide you with all the information you need to file your taxes using the crypto cal…",
+            "url": "https://www.designer-daily.com/what-you-need-to-know-about-usa-crypto-taxes-2022-134963",
+            "urlToImage": "https://s0.wp.com/i/blank.jpg",
+            "publishedAt": "2022-08-05T05:20:45Z",
+            "content": "Are you a U.S. citizen who has been investing in cryptocurrencies? If so, it’s important to understand how your taxes will be affected come April 15th, 2022. This guide will provide you with all the … [+8765 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jamie Crawley",
+            "title": "Crypto Miner Argo Blockchain Faced Equipment Challenges, Higher Costs in July",
+            "description": "Argo Blockchain (ARB) mined 219 bitcoin or bitcoin equivalents (BTC) in July as it combated problems with its equipment and electricity costs.",
+            "url": "https://finance.yahoo.com/news/crypto-miner-argo-blockchain-faced-083724409.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/kAF.fDfR96KYYxGzTOUrVQ--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/dd3dc86f7aa0be9e5b15c8a7f8d9e8d2",
+            "publishedAt": "2022-08-05T08:37:24Z",
+            "content": "Crypto miner Argo Blockchain (ARB) mined 219 bitcoin (BTC) or bitcoin equivalents in July, 22% more than in June, even as it combated equipment problems and higher electricity costs.<li>Power costs a… [+993 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Aoyon Ashraf",
+            "title": "Core Scientific Sold More Bitcoin in July Than It Mined",
+            "description": "The miner still holds 1,205 bitcoins and expects to continue to sell its mined coins to pay for expenses.",
+            "url": "https://finance.yahoo.com/news/core-scientific-sold-more-bitcoin-141257771.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/D7r5Dbdn5DVxbaURLRdRQg--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/df3b72a5daded1a0f094be755c63470f",
+            "publishedAt": "2022-08-05T14:12:57Z",
+            "content": "Core Scientific (CORZ), one of the largest bitcoin miners by hashrate produced 1,221 bitcoins in July while selling 1,975 to pay for capital and growth expenses.\r\nThe miner received a total of $44 mi… [+1539 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Timmy Shen",
+            "title": "Bitcoin mining difficulty rises 1.74% after three consecutive drops",
+            "description": "Bitcoin mining difficulty rose by 1.74% on Thursday following three consecutive drops in previous adjustments, according to data from BTC.com. See related...",
+            "url": "https://finance.yahoo.com/news/bitcoin-mining-difficulty-rises-1-025032325.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Gk4b2rAgw8TD25Y1eNtq.A--~B/aD03Nzc7dz0xMTcyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/forkast_news_articles_672/cd2cecc5a50948ba0f6663b1e3d90992",
+            "publishedAt": "2022-08-05T02:50:32Z",
+            "content": "Russia's biggest carmaker Avtovaz, which suspended some production due to sanctions and lack of components, is offering workers at its Izhevsk plant a one-off payment of about $3,000 to take voluntar… [+495 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Pradipta Mukherjee",
+            "title": "Riot Blockchain earns millions in credits by cutting energy use during Texas heat wave",
+            "description": "American Bitcoin mining firm Riot Blockchain earned an estimated US$9.5 million in power credits in July as it reduced energy consumption and mined fewer...",
+            "url": "https://finance.yahoo.com/news/riot-blockchain-earns-millions-credits-083134005.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/M8JUZuX2DRSk6LpGbw.SfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NTE-/https://s.yimg.com/uu/api/res/1.2/lHtliT3Sm4HoU576F0ffSw--~B/aD03Nzk7dz0xNjk3O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/forkast_news_articles_672/3afef372b96bb6a9f2f639ff94316f0c",
+            "publishedAt": "2022-08-05T08:31:34Z",
+            "content": "As a third heatwave baked France this week, the heat radiating off the asphalt outside the Garnier Opera house in Paris hit 56 degrees Celsius on urban planning expert Tangui Le Dantec's thermometer.… [+393 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Lachlan Keller",
+            "title": "Bitcoin, Ether trend lower, BNB adds to gains, Flow jumps on Meta NFT Integration",
+            "description": "It was a mixed bag for the top 10 cryptocurrencies Friday morning in Asia, with most moving less than 1%. Bitcoin dipped, while BNB continued its breakout...",
+            "url": "https://finance.yahoo.com/news/bitcoin-ether-trend-lower-bnb-012255014.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/G5GJjGDWlOJKW1Y5xwui0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/uu/api/res/1.2/4jx0fBxMpF0S6O0yZo1.fA--~B/aD0xNzA5O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/forkast_news_articles_672/06aafbb9923cd964b99a27aa9dea3454",
+            "publishedAt": "2022-08-05T01:22:55Z",
+            "content": "It was a mixed bag for the top 10 cryptocurrencies Friday morning in Asia, with most moving less than 1%. Bitcoin dipped, while BNB continued its breakout run for a second day. Bitcoin was trading at… [+1508 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Emily Nicolle and David Pan",
+            "title": "Bitcoin Lingers Near $23,000 as Job Gains Weigh on Risk Assets",
+            "description": "(Bloomberg) -- Bitcoin lingered near $23,000 after a report showing the US added more jobs than forecast last month renewed concern that higher interest...",
+            "url": "https://finance.yahoo.com/news/bitcoin-lingers-near-23-000-124956955.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/OY9miT.1VbdWUb6Kel1mSw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/ea15c6542412a63863703d162de25b6c",
+            "publishedAt": "2022-08-05T14:02:26Z",
+            "content": "(Bloomberg) -- Bitcoin lingered near $23,000 after a report showing the US added more jobs than forecast last month renewed concern that higher interest rates could reduce demand for riskier assets.\r… [+1753 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Michael J. Casey",
+            "title": "The Price for Crypto’s Recovery: A New Narrative",
+            "description": "In these tough times, a bit of historical perspective is useful.  After the February 2014 collapse of the Tokyo-based bitcoin exchange, the conventional...",
+            "url": "https://finance.yahoo.com/news/price-crypto-recovery-narrative-180000225.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/xvh5wgoTBblRYyrQv5pooQ--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/9f0045176f9466f751bbae59b56c8eda",
+            "publishedAt": "2022-08-05T18:00:00Z",
+            "content": "In these tough times, a bit of historical perspective is useful. Lets talk about Mt. Gox.\r\nAfter the February 2014 collapse of the Tokyo-based bitcoin exchange, the conventional wisdom was that its c… [+4781 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Fran Velasquez",
+            "title": "Why Bit Digital Is Expanding Into Canada",
+            "description": "Bit Digital Chief Strategy Officer Samir Tabar joined CoinDesk TV’s “All About Bitcoin,” to discuss the mining company’s bid to increase hosting capacity in ...",
+            "url": "https://finance.yahoo.com/news/why-bit-digital-expanding-canada-173325156.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/xC8nZD8SLuNqbTtUMO3iJQ--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/2f417de683e8aea9b505a75d249ae718",
+            "publishedAt": "2022-08-05T17:33:25Z",
+            "content": "Mining company Bit Digital is expanding its operations to Canada, according to Chief Strategy Officer Samir Tabar.\r\nThe New-York based company said Wednesday it had signed a two-year agreement, notin… [+2176 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "CNW Group",
+            "title": "Hut 8 Mining Production and Operations Update for July 2022",
+            "description": "Hut 8 Mining Corp. (Nasdaq: HUT) (TSX: HUT), (\"Hut 8\" or the \"Company\") one of North America's largest, innovation-focused digital asset mining pioneers and ...",
+            "url": "https://finance.yahoo.com/news/hut-8-mining-production-operations-103000858.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/a6jipXgzcDCPStzC0KUIEA--~B/aD0xNzU7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnwgroup.com/b5db163d6b0ed7a2303e8a298923befa",
+            "publishedAt": "2022-08-05T10:30:00Z",
+            "content": "330 Bitcoin mined, bringing reserves to 7,736\r\nTORONTO, Aug. 5, 2022 /CNW/ - Hut 8 Mining Corp. (Nasdaq: HUT) (TSX: HUT), (\"Hut 8\" or the \"Company\") one of North America's largest, innovation-focused… [+8808 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "Block shares slip after crypto winter dampens quarterly results",
+            "description": "Block on Thursday reported a loss of 36 cents per share in the second quarter, compared with a profit of 40 cents last year, and said it had slowed hiring...",
+            "url": "https://finance.yahoo.com/news/block-shares-slip-crypto-winter-111403599.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/X7xUf.B2xK1T0FAjLS5FxQ--~B/aD00NTA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/9b1a4cdd7a5d09b433be7f545c24becf",
+            "publishedAt": "2022-08-05T11:14:03Z",
+            "content": "(Reuters) - Shares of Jack Dorsey-led Block Inc, a digital payments firm that has bet big on bitcoin, declined nearly 7% in premarket trading on Friday after the company reported a loss in quarterly … [+1747 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Argo Blockchain PLC",
+            "title": "Argo Blockchain PLC Announces July 2022 Operational Update",
+            "description": "Argo Blockchain plc, a global leader in cryptocurrency mining (LSE:ARB)(NASDAQ:ARBK), is pleased to provide the following operational update for July 2022.",
+            "url": "https://finance.yahoo.com/news/argo-blockchain-plc-announces-july-060000504.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/cG9xZD8SrC1RvK6N25Vgug--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/accesswire.ca/a1e2e813efcc1fcd9e957d5aa06e4461",
+            "publishedAt": "2022-08-05T06:00:00Z",
+            "content": "Grant of Options\r\nOperational Update\r\nLONDON, UK / ACCESSWIRE / August 5, 2022 / Argo Blockchain plc, a global leader in cryptocurrency mining (LSE:ARB)(NASDAQ:ARBK), is pleased to provide the follow… [+12297 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Glenn Williams, Jimmy He",
+            "title": "Market Wrap: Bitcoin Falls Initially on US Jobs Report, Grinds Higher Later",
+            "description": "The positive jobs report may lead to additional Fed tightening.",
+            "url": "https://finance.yahoo.com/news/market-wrap-bitcoin-falls-initially-202719703.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/hXHqkfXt99slXTk2CGsU2Q--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/e665f037efac195674119fc7166b5174",
+            "publishedAt": "2022-08-05T20:27:19Z",
+            "content": "Bitcoins (BTC) price increased 2% on Friday, average volume. Currently near $23,000, the largest cryptocurrency by market capitalization was on track to close out the week down 2%.\r\nBTCs price move c… [+7094 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "HIVE Blockchain Technologies Ltd.",
+            "title": "REPEAT – HIVE Blockchain Provides July 2022 Production Update",
+            "description": "This news release constitutes a “designated news release” for the purposes of the Company’s prospectus supplement dated February 2, 2021 to its amended and...",
+            "url": "https://finance.yahoo.com/news/repeat-hive-blockchain-provides-july-110000992.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/2OnyrRYL56ah0s0zglOf4g--~B/aD0xNjg7dz00MzQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/bfd688d1704f2a464f9c14dfd5dd9843",
+            "publishedAt": "2022-08-05T11:00:00Z",
+            "content": "HIVE Blockchain Technologies Ltd.\r\nThis news release constitutes a designated news release for the purposes of the Companys prospectus supplement dated February 2, 2021 to its amended and restated sh… [+12337 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "HIVE Blockchain Technologies Ltd.",
+            "title": "HIVE Blockchain Provides July 2022 Production Update",
+            "description": "This news release constitutes a “designated news release” for the purposes of the Company’s prospectus supplement dated February 2, 2021 to its amended and...",
+            "url": "https://finance.yahoo.com/news/hive-blockchain-provides-july-2022-050000572.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/2OnyrRYL56ah0s0zglOf4g--~B/aD0xNjg7dz00MzQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/bfd688d1704f2a464f9c14dfd5dd9843",
+            "publishedAt": "2022-08-05T05:00:00Z",
+            "content": "HIVE Blockchain Technologies Ltd.\r\nThis news release constitutes a designated news release for the purposes of the Companys prospectus supplement dated February 2, 2021 to its amended and restated sh… [+12337 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Coin Rivet",
+            "title": "Memecoins More Than a Punchline in Crypto Winter",
+            "description": "Even more surprisingly, they have held their value fairly well compared to many more serious altcoins and are even positioned to have their own utility-based...",
+            "url": "https://finance.yahoo.com/news/memecoins-more-punchline-crypto-winter-121508279.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/pxnoSUna5J0ntK96rhRBwA--~B/aD01MzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/631e9536753718b5797e1456e566223a",
+            "publishedAt": "2022-08-05T12:15:08Z",
+            "content": "Even more surprisingly, they have held their value fairly well compared to many more serious altcoins and are even positioned to have their own utility-based ecosystems. \r\nIn a previous article, we e… [+5010 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Margaux Nijkerk",
+            "title": "What the Merge Means for Ethereum Miners",
+            "description": "Where will Ethereum’s miners go when you can’t mine on Ethereum any more?  If all goes according to plan, the so-called Merge will take place in late...",
+            "url": "https://finance.yahoo.com/news/merge-means-ethereum-miners-182825848.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/6n3b8yMqyYmlwyfLrRfE0w--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/5e4471f1a49d08fcc368a47491101c6d",
+            "publishedAt": "2022-08-05T18:28:25Z",
+            "content": "Where will Ethereums miners go when you cant mine on Ethereum any more? Thats the $19 billion question.\r\nIf all goes according to plan, the so-called Merge will take place in late September, completi… [+4829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jose Karlo Mari Tottoc",
+            "title": "ClearBridge Investments: “Snowflake (SNOW) has Significant Room for Free Cash Flow Margin Expansion”",
+            "description": "ClearBridge Investments, an investment management firm, published its “Aggressive Growth Strategy” second quarter 2022 investor letter – a copy of which can ...",
+            "url": "https://finance.yahoo.com/news/clearbridge-investments-snowflake-snow-significant-021457840.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/zqGwTOq.3s0DEvp8p1d63Q--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/eef05c248547c3541cf0e7537eb4d810",
+            "publishedAt": "2022-08-05T02:14:57Z",
+            "content": "ClearBridge Investments, an investment management firm, published its Aggressive Growth Strategy second quarter 2022 investor letter a copy of which can be downloaded here. The ClearBridge Aggressive… [+2201 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "David Z. Morris",
+            "title": "The Fake Team That Made Solana DeFi Look Huge",
+            "description": "We already knew that crypto developers cannot always be trusted. But can we trust the data?",
+            "url": "https://finance.yahoo.com/news/fake-team-made-solana-defi-172531862.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/2azJFspZxkhNV_Ka3B5EPA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/04cb298a03d50b2e00af11d446a8d3a0",
+            "publishedAt": "2022-08-05T17:25:31Z",
+            "content": "CoinDesk reporters Danny Nelson and Tracy Wang on Thursday released a bombshell report that could tarnish the reputation of the entire Solana ecosystem. More than that, the dizzying tale highlights s… [+5328 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "EBANG INTERNATIONAL HOLDINGS INC.",
+            "title": "Ebang International to Launch New Ebonex Crypto-Linked Payment Cards Powered by Mastercard",
+            "description": "SYDNEY, Australia, Aug. 05, 2022 (GLOBE NEWSWIRE) -- Ebang International Holdings Inc. (Nasdaq: EBON, the “Company”, “we” or “our”), a global blockchain...",
+            "url": "https://finance.yahoo.com/news/ebang-international-launch-ebonex-crypto-123000033.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/qfKGf1u3QU4VYUSXciEi5g--~B/aD05Njt3PTQ2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/globenewswire.com/7c52a659a5e4dcf04f1c87df4a06a50a",
+            "publishedAt": "2022-08-05T12:30:00Z",
+            "content": "EBANG INTERNATIONAL HOLDINGS INC.\r\nSYDNEY, Australia, Aug. 05, 2022 (GLOBE NEWSWIRE) -- Ebang International Holdings Inc. (Nasdaq: EBON, the Company, we or our), a global blockchain technology compan… [+4478 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "News Direct",
+            "title": "Rapidly growing Global Sneaker Platform The Edit LDN enters the Metaverse with Bloktopia",
+            "description": "The Edit LDN has grown 525% growth every year since 2020 & on track to deliver another 500% growth in the next 12 months, making it the UK’s no1 sneaker...",
+            "url": "https://finance.yahoo.com/news/rapidly-growing-global-sneaker-platform-152002442.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bZEWmM.H6UvcYcqi5hzdxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MTI-/https://s.yimg.com/uu/api/res/1.2/mNupCcVwtF1y35Uy4TZ.VQ--~B/aD03NjQ7dz0xNDk4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/news_direct/7bdde165c9e481d2b5f1641eb8fe7810",
+            "publishedAt": "2022-08-05T15:20:02Z",
+            "content": "The Edit LDN has grown 525% growth every year since 2020 &amp; on track to deliver another 500% growth in the next 12 months, making it the UKs no1 sneaker destination for servicing a global audience… [+6680 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Cheyenne Ligon, Elizabeth Napolitano",
+            "title": "In Crypto Winter, Jesse Powell’s Pirate-King Leadership Style Might Be the New Normal",
+            "description": "Less than 1% of employees have taken the CEO’s buyout offer since he laid down the law on culture. Is Kraken a “based” place to work, or just somewhere to...",
+            "url": "https://finance.yahoo.com/news/crypto-winter-jesse-powell-pirate-161537816.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/wGb_JKIH.4hwjqO9BUGm2Q--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/6d4d31a32aba0cc9bf41b95ad22587a8",
+            "publishedAt": "2022-08-06T16:15:37Z",
+            "content": "It seemed like the perfect recipe for a major blowback.\r\nKraken CEO Jesse Powell ruffled feathers in June after a New York Times article detailed a corporate culture war raging at the cryptocurrency … [+16743 chars]"
+        }
+    ]
+}

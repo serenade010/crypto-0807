@@ -1,0 +1,30 @@
+.NewsCard {
+    width: 1200px;
+    height: 30%;
+    background-color: beige;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+img {
+    display: inline-block;
+}
+
+.newscard-component-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.newscard-text-container {
+    font-size: 10px;
+    background-color: burlywood;
+}
+
+.NewsCard-title {
+    font-size: 30px;
+    margin: 10px;
+}

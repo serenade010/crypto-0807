@@ -1,0 +1,136 @@
+.login-container {
+
+    width: 100vw;
+    height: 100vh;
+    background-color: #E0E1DD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.login-window {
+    position: relative;
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-window-title {
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.login-window-quote {
+    margin-bottom: 20px;
+}
+
+.login-window-email, .login-window-psword {
+    width: 250px;
+    height: 40px;
+    border: 1px rgb(161, 156, 156) solid;
+    margin: 10px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.login-window-btn {
+    margin-top: 25px;
+    width: 250px;
+    height: 40px;
+    background-color: #778DA9;
+    border: none;
+    font-weight: 500;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.login-window-signup-btn {
+    margin-top: 90px;
+    background: none;
+    border: none;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.login-window-invalid {
+    position: absolute;
+    color: red;
+    bottom: 120px;
+    font-size: 0;
+}
+
+#information-incorrect {
+    color: red;
+    font-size: 15px;
+    display: block;
+}
+
+.signup-container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #E0E1DD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signup-window {
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.signup-window-title {
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.signup-window-quote {
+    margin-bottom: 20px;
+}
+
+
+.signup-window-email, .signup-window-psword, .signup-window-confirm-psword {
+    width: 250px;
+    height: 40px;
+    border: 1px rgb(161, 156, 156) solid;
+    margin: 10px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.signup-window-btn {
+    margin-top: 25px;
+    width: 250px;
+    height: 40px;
+    background-color: #778DA9;
+    border: none;
+    font-weight: 500;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.signup-window-signup-btn {
+    margin-top: 50px;
+    background: none;
+    border: none;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 15px;
+}

@@ -1,0 +1,22 @@
+.info-container {
+    width: 250px;
+    height: 150px;
+    background-color: #E0E1DD;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 0px 0px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.info-title {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+}
+
+.margin-left {
+    margin-left: 20px;
+}

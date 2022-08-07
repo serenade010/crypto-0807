@@ -1,0 +1,20 @@
+{
+    "routes": [
+        {
+            "src": "/login",
+            "dest": "/login"
+        },
+        {
+            "src": "/price",
+            "dest": "/price"
+        },
+        {
+            "src": "/model",
+            "dest": "/model"
+        },
+        {
+            "src": "/news",
+            "dest": "/news"
+        }
+    ]
+}
