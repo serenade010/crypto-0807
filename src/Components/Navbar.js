@@ -36,10 +36,10 @@ function Navbar() {
           News
         </div>
       </Link>
-      <Link to="/login" style={{ textDecoration: 'none' }}>
+      <Link to="/" style={{ textDecoration: 'none' }}>
         <div
           className="nav-func-signout"
-        //   id={location.pathname === '/news' ? 'nav-active' : 'nav'}
+          //   id={location.pathname === '/news' ? 'nav-active' : 'nav'}
         >
           <FaPowerOff />
           <div className="margin-left">Sign out</div>
