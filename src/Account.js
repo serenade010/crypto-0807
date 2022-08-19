@@ -14,7 +14,7 @@ function Account() {
 
   const createUser = () => {
     axios
-      .post('http://localhost:8080/user', {
+      .post('https://boiling-garden-25075.herokuapp.com/user', {
         Name: account,
         Password: psword,
       })
@@ -28,7 +28,7 @@ function Account() {
 
   const verifyLogin = () => {
     axios
-      .get(`http://localhost:8080/user/find/${account}`)
+      .get(`https://boiling-garden-25075.herokuapp.com/user/find/${account}`)
       .then(function (response) {
         if (response.data.user.Password === psword) {
           navigate('/price', {
