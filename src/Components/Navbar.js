@@ -3,16 +3,22 @@ import './Navbar.css';
 import Userinfo from './Userinfo';
 import { Link, useLocation } from 'react-router-dom';
 import { FaPowerOff } from 'react-icons/fa';
-function Navbar() {
+
+function Navbar(props) {
   const location = useLocation();
+
   //   const [currentPage, SetCurrentPage] = useState(location);
   //   useEffect = () => {
   //     () => {};
   //   };
   return (
     <div className="nav-container">
-      <Userinfo />
-      <Link to="/price" style={{ textDecoration: 'none' }}>
+      <Userinfo name={props.name} />
+      <Link
+        to="/price"
+        style={{ textDecoration: 'none' }}
+        state={{ id: props.id, name: props.name }}
+      >
         <div
           className="nav-func"
           id={location.pathname === '/price' ? 'nav-active' : 'nav'}
@@ -20,7 +26,11 @@ function Navbar() {
           Price
         </div>
       </Link>
-      <Link to="/model" style={{ textDecoration: 'none' }}>
+      <Link
+        to="/model"
+        style={{ textDecoration: 'none' }}
+        state={{ id: props.id, name: props.name }}
+      >
         <div
           className="nav-func"
           id={location.pathname === '/model' ? 'nav-active' : 'nav'}
@@ -28,7 +38,11 @@ function Navbar() {
           Model
         </div>
       </Link>
-      <Link to="/news" style={{ textDecoration: 'none' }}>
+      <Link
+        to="/news"
+        style={{ textDecoration: 'none' }}
+        state={{ id: props.id, name: props.name }}
+      >
         <div
           className="nav-func"
           id={location.pathname === '/news' ? 'nav-active' : 'nav'}
@@ -36,9 +50,14 @@ function Navbar() {
           News
         </div>
       </Link>
-      <Link to="/" style={{ textDecoration: 'none' }}>
+      <Link
+        to="/"
+        style={{ textDecoration: 'none' }}
+        // state={{ id: props.id, name: props.name }}
+      >
         <div
           className="nav-func-signout"
+          // state={{ id: null, name: null }}
           //   id={location.pathname === '/news' ? 'nav-active' : 'nav'}
         >
           <FaPowerOff />

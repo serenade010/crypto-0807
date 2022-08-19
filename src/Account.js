@@ -3,6 +3,7 @@ import React from 'react';
 import './Account.css';
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import axios from 'axios';
 
 function Account() {
   const [login, setLogin] = useState(true);
@@ -11,15 +12,38 @@ function Account() {
   const [loginStatus, setLoginStatus] = useState('information-correct');
   let navigate = useNavigate();
 
+  const createUser = () => {
+    axios
+      .post('http://localhost:8080/user', {
+        Name: account,
+        Password: psword,
+      })
+      .then(function (response) {
+        console.log(response);
+      })
+      .catch(function (error) {
+        console.log(error);
+      });
+  };
+
   const verifyLogin = () => {
-    if (account === 'admin' && psword === '123456') {
-      navigate('/price');
-      setLoginStatus('information-correct');
-    } else {
-      setLoginStatus('information-incorrect');
-      setAccount('');
-      setPsword('');
-    }
+    axios
+      .get(`http://localhost:8080/user/find/${account}`)
+      .then(function (response) {
+        if (response.data.user.Password === psword) {
+          navigate('/price', {
+            state: { id: response.data.user.ID, name: response.data.user.Name },
+          });
+          setLoginStatus('information-correct');
+        } else {
+          setLoginStatus('information-incorrect');
+          setAccount('');
+          setPsword('');
+        }
+      })
+      .catch(function (error) {
+        console.log(error);
+      });
   };
 
   if (login)
@@ -31,7 +55,7 @@ function Account() {
             <div className="login-window-title">Log in</div>
             <div className="login-window-quote">Begin your journey here!</div>
             <input
-              placeholder="Email / Phone"
+              placeholder="Name"
               className="login-window-email"
               value={account}
               onChange={(event) => {
@@ -85,27 +109,40 @@ function Account() {
               Sign up for a new account!
             </div>
             <input
-              placeholder="Email / Phone"
+              placeholder="Name"
               className="signup-window-email"
+              onChange={(event) => {
+                setAccount(event.target.value);
+              }}
             ></input>
             <input
               type="password"
               placeholder="Password"
               className="signup-window-psword"
+              onChange={(event) => {
+                setPsword(event.target.value);
+              }}
             ></input>
             <input
               type="password"
               placeholder="Confirm Password"
               className="signup-window-confirm-psword"
             ></input>
-            <button className="signup-window-btn">Sign up</button>
+            <button
+              className="signup-window-btn"
+              onClick={() => {
+                createUser();
+                setAccount('');
+                setPsword('');
+                setLogin(!login);
+              }}
+            >
+              Sign up
+            </button>
             <button
               className="signup-window-signup-btn"
               onClick={() => {
                 setLogin(!login);
-                setLoginStatus('information-correct');
-                setAccount('');
-                setPsword('');
               }}
             >
               Already have an account? Login now!
