@@ -1,18 +1,19 @@
 import React from 'react';
-import './Model';
+import './Predict.css';
 import Navbar from '../Components/Navbar';
+import PlotyCard from '../Components/PlotlyCard';
 import { useLocation } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-import './Model.css';
-import ModelCard from '../Components/ModelCard';
-import ModelAdd from '../Components/ModelAdd';
+import PredictCard from '../Components/PredictCard';
 import Backdrop from '@mui/material/Backdrop';
 import CircularProgress from '@mui/material/CircularProgress';
-
-function Model() {
-  const [models, setModels] = useState([]);
-
+function Predict() {
+  const [options, setOptions] = useState([]);
+  const [from, setFrom] = useState();
+  const [to, setTo] = useState();
+  const [result, setResult] = useState([]);
+  const location = useLocation();
   const [open, setOpen] = useState(false);
   const handleClose = () => {
     setOpen(false);
@@ -21,20 +22,21 @@ function Model() {
     setOpen(!open);
   };
 
-  const location = useLocation();
   const fetchModels = () => {
     handleToggle();
     axios
       .get(`https://boiling-garden-25075.herokuapp.com/models`)
       .then(function (response) {
         // handle success
-        setModels(
-          response.data.models.filter(
-            (model) => model.UserID === location.state.id
-          )
+        setOptions(
+          response.data.models
+            .filter((model) => model.UserID === location.state.id)
+            .map((model) => {
+              return { value: model.ID, label: model.Name };
+            })
         );
-        console.log('fetch Models');
       })
+
       .then(() => {
         handleClose();
       })
@@ -50,7 +52,7 @@ function Model() {
   }, []);
 
   return (
-    <div className="model-container">
+    <div className="predict-container">
       <Navbar id={location.state.id} name={location.state.name} />
       <Backdrop
         sx={{ color: '#fff', zIndex: (theme) => theme.zIndex.drawer + 1 }}
@@ -59,20 +61,17 @@ function Model() {
       >
         <CircularProgress color="inherit" />
       </Backdrop>
-      <div className="model-container-right">
-        {models.map((model) => {
-          return (
-            <ModelCard
-              key={model.ID}
-              model={model}
-              fetchModels={fetchModels}
-            ></ModelCard>
-          );
-        })}
+      <div className="predict-container-right">
+        <PredictCard
+          options={options}
+          setFrom={setFrom}
+          setTo={setTo}
+          setResult={setResult}
+        />
+        <PlotyCard from={from} to={to} result={result} />
       </div>
-      <ModelAdd id={location.state.id} fetchModels={fetchModels} />
     </div>
   );
 }
 
-export default Model;
+export default Predict;

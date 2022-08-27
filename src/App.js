@@ -3,7 +3,7 @@ import { Route, Routes } from 'react-router-dom';
 // import Home from './Home';
 import Account from './Account';
 import Model from './Pages/Model';
-import News from './Pages/News';
+import Predict from './Pages/Predict';
 import Price from './Pages/Price';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Account />} />
         <Route path="/model" element={<Model />} />
-        <Route path="/news" element={<News />} />
+        <Route path="/predict" element={<Predict />} />
         <Route path="/price" element={<Price />} />
       </Routes>
     </>

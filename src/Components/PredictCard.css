@@ -1,0 +1,36 @@
+.predictCard-container {
+    width: 1000px;
+    height: 100px;
+    /* background-color: azure; */
+    display: flex;
+    padding-top: 50px;
+    align-items: center;
+
+}
+
+.predictCard-from {
+    display: flex;
+    margin-right: 20px;
+
+}
+
+h3 {
+    margin-right: 10px;
+}
+
+.predictCard-model {
+    width: 200px;
+    height: 40px;
+    margin-left: 30px;
+}
+
+.predictCard-button {
+    width: 130px;
+    height: 40px;
+    margin-left: 50px;
+    border: none;
+    font-size: 17px;
+    background-color: rgb(70, 130, 158);
+    border-radius: 10px;
+    cursor: pointer;
+}

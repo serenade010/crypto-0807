@@ -1,0 +1,23 @@
+.model-container {
+    display: flex;
+    position: relative;
+}
+
+.model-container-right {
+
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    width: 100vw;
+    overflow-y: scroll;
+    flex-wrap: wrap;
+}
+
+.model-spinner-container {
+    margin-left: 350px;
+    display: flex;
+    align-items: center;
+    width: 80vh;
+    height: 100vh;
+
+}

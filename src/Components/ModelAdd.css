@@ -1,0 +1,57 @@
+.modeladd-container {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    font-size: 50px;
+    cursor: pointer;
+}
+
+.modeladd-icon {
+    font-size: 45px;
+    background-color: #415A77;
+    border-radius: 50%;
+    padding: 6px;
+    border: none;
+}
+
+.modeladd-icon:hover {
+    scale: 1.1;
+}
+
+.modeladd-form {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+.modaladd-close {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.modeladd-create-container {
+    display: flex;
+    justify-content: center;
+}
+
+.modeladd-input {
+    width: 250px;
+    height: 25px;
+    margin-bottom: 10px;
+    border: 1px rgb(161, 156, 156) solid;
+}
+
+.modeladd-create {
+    width: 100px;
+    height: 35px;
+    background-color: #778DA9;
+    border: none;
+    font-weight: 500;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}

@@ -39,15 +39,15 @@ function Navbar(props) {
         </div>
       </Link>
       <Link
-        to="/news"
+        to="/predict"
         style={{ textDecoration: 'none' }}
         state={{ id: props.id, name: props.name }}
       >
         <div
           className="nav-func"
-          id={location.pathname === '/news' ? 'nav-active' : 'nav'}
+          id={location.pathname === '/predict' ? 'nav-active' : 'nav'}
         >
-          News
+          Predict
         </div>
       </Link>
       <Link

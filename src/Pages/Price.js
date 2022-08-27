@@ -1,7 +1,7 @@
 import React from 'react';
 import './Price.css';
 import Navbar from '../Components/Navbar';
-import PlotyCard from '../Components/PlotlyCard';
+
 import { useLocation } from 'react-router-dom';
 
 function Price() {
@@ -10,9 +10,7 @@ function Price() {
   return (
     <div className="price-container">
       <Navbar id={id} name={name} />
-      <div className="price-ploty-container">
-        <PlotyCard />
-      </div>
+      <div className="predict-ploty-container"></div>
     </div>
   );
 }

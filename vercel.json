@@ -13,8 +13,8 @@
             "dest": "/model"
         },
         {
-            "src": "/news",
-            "dest": "/news"
+            "src": "/predict",
+            "dest": "/predict"
         }
     ]
 }

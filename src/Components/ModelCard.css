@@ -1,0 +1,73 @@
+.modelcard-container {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    width: 300px;
+    height: 200px;
+    background-color: rgb(220, 213, 213);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.modelcard-title {
+    font-size: 50px;
+    padding-right: 500px;
+
+}
+
+.modelcard-name {
+    /* margin: 10px; */
+    font-size: 30px;
+    margin: 15px;
+}
+
+
+.modelcard-perfomance {
+    font-size: 20px;
+    margin: 20px;
+}
+
+.modelcard-column {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.modelcard-column-name {
+    font-size: 20px;
+}
+
+.modelcard-input {
+    width: 300px;
+    height: 30px;
+
+}
+
+.modelcard-func-container {
+    display: flex;
+    justify-content: center;
+}
+
+.modelcard-func-btn {
+    border: none;
+    width: 80px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.modelcard-green-btn {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(165, 213, 165);
+    font-size: 15px;
+}
+
+.modelcard-red-btn {
+    width: 100px;
+    height: 30px;
+    background-color: lightcoral;
+    font-size: 15px;
+}

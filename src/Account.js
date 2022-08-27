@@ -4,15 +4,26 @@ import './Account.css';
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
+import Backdrop from '@mui/material/Backdrop';
+import CircularProgress from '@mui/material/CircularProgress';
 
 function Account() {
   const [login, setLogin] = useState(true);
   const [account, setAccount] = useState('');
   const [psword, setPsword] = useState('');
+  const [open, setOpen] = useState(false);
   const [loginStatus, setLoginStatus] = useState('information-correct');
   let navigate = useNavigate();
 
+  const handleClose = () => {
+    setOpen(false);
+  };
+  const handleToggle = () => {
+    setOpen(!open);
+  };
+
   const createUser = () => {
+    handleToggle();
     axios
       .post('https://boiling-garden-25075.herokuapp.com/user', {
         Name: account,
@@ -20,6 +31,7 @@ function Account() {
       })
       .then(function (response) {
         console.log(response);
+        handleClose();
       })
       .catch(function (error) {
         console.log(error);
@@ -27,15 +39,18 @@ function Account() {
   };
 
   const verifyLogin = () => {
+    handleToggle();
     axios
       .get(`https://boiling-garden-25075.herokuapp.com/user/find/${account}`)
       .then(function (response) {
         if (response.data.user.Password === psword) {
+          handleClose();
           navigate('/price', {
             state: { id: response.data.user.ID, name: response.data.user.Name },
           });
           setLoginStatus('information-correct');
         } else {
+          handleClose();
           setLoginStatus('information-incorrect');
           setAccount('');
           setPsword('');
@@ -52,6 +67,13 @@ function Account() {
         {/* <Link to="/">route to home</Link> */}
         <div className="login-container">
           <div className="login-window">
+            <Backdrop
+              sx={{ color: '#fff', zIndex: (theme) => theme.zIndex.drawer + 1 }}
+              open={open}
+              onClick={handleClose}
+            >
+              <CircularProgress color="inherit" />
+            </Backdrop>
             <div className="login-window-title">Log in</div>
             <div className="login-window-quote">Begin your journey here!</div>
             <input

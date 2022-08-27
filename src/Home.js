@@ -8,7 +8,7 @@ function home() {
     <>
       <nav>
         <Link to="/model">Model</Link>
-        <Link to="/news">News</Link>
+        <Link to="/predict">Predict</Link>
         <Link to="/price">Price</Link>
       </nav>
     </>
