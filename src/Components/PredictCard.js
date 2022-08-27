@@ -46,7 +46,7 @@ function PredictCard(props) {
         batch_size: model.Batch_size,
       })
       .then(function (response) {
-        if (response.data.mse < model.MSE)
+        if (model.MSE === 0 || response.data.mse < model.MSE)
           axios.put(
             `https://boiling-garden-25075.herokuapp.com/model/${modelID}`,
             {
