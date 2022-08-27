@@ -88,7 +88,7 @@ function ModelCard(props) {
   return (
     <div className="modelcard-container" onClick={openModal}>
       <div className="modelcard-name">{props.model.Name}</div>
-      <div className="modelcard-perfomance">MSE:</div>
+      <div className="modelcard-perfomance">{`MSE:${props.model.MSE}`}</div>
 
       <Modal
         isOpen={modalIsOpen}

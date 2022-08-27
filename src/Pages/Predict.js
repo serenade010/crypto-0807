@@ -15,6 +15,7 @@ function Predict() {
   const [result, setResult] = useState([]);
   const location = useLocation();
   const [open, setOpen] = useState(false);
+  const [selectedModel, setSelectedModel] = useState();
   const handleClose = () => {
     setOpen(false);
   };
@@ -67,8 +68,14 @@ function Predict() {
           setFrom={setFrom}
           setTo={setTo}
           setResult={setResult}
+          setSelectedModel={setSelectedModel}
         />
-        <PlotyCard from={from} to={to} result={result} />
+        <PlotyCard
+          from={from}
+          to={to}
+          result={result}
+          selectedModel={selectedModel}
+        />
       </div>
     </div>
   );

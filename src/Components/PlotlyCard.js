@@ -26,11 +26,25 @@ function PlotyCard(props) {
 
   useEffect(() => {
     setFrom(props.from);
+    setPxdata([]);
+    setPydata([]);
+    setPtxdata([]);
+    setPtydata([]);
   }, [props.from]);
 
   useEffect(() => {
+    setPxdata([]);
+    setPydata([]);
+    setPtxdata([]);
+    setPtydata([]);
     setTo(props.to);
   }, [props.to]);
+
+  useEffect(() => {
+    if (props.result.length !== 0) {
+      alert(`Model MSE  :  ${parseInt(props.result['mse'])}`);
+    }
+  }, [props.result]);
 
   useEffect(() => {
     if (props.result.length !== 0) {

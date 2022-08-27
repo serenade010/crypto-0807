@@ -46,9 +46,17 @@ function PredictCard(props) {
         batch_size: model.Batch_size,
       })
       .then(function (response) {
+        if (response.data.mse < model.MSE)
+          axios.put(
+            `https://boiling-garden-25075.herokuapp.com/model/${modelID}`,
+            {
+              MSE: response.data.mse,
+            }
+          );
         props.setResult(response.data);
         handleClose();
       })
+      .then(() => {})
       .catch(function (error) {
         console.log(error);
       });
@@ -102,6 +110,7 @@ function PredictCard(props) {
           options={props.options}
           onChange={(e) => {
             setModelID(e.value);
+            props.setSelectedModel(e.value);
           }}
         />
       </div>
